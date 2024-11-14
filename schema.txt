@@ -1,8 +1,3 @@
-CREATE TABLE "constituencies" (
-   [Constituency] TEXT PRIMARY KEY,
-   [Seat Count] INTEGER,
-   [Returning Officer URL] TEXT
-);
 CREATE TABLE [constituency_boundaries] (
    [id] INTEGER PRIMARY KEY,
    [OBJECTID_1] INTEGER,
@@ -15,6 +10,11 @@ CREATE TABLE [constituency_boundaries] (
    [MinSimpTol] INTEGER,
    [geometry] TEXT
 );
+CREATE TABLE "constituencies" (
+   [constituency] TEXT PRIMARY KEY,
+   [seat_count] INTEGER,
+   [returning_officer_url] TEXT
+);
 CREATE TABLE [candidates] (
    [constituency] TEXT,
    [party] TEXT,
@@ -23,12 +23,6 @@ CREATE TABLE [candidates] (
    [incumbent] TEXT,
    [previous_member_of_dail_or_seanad] INTEGER
 );
-CREATE VIEW parties AS SELECT
-          party
-        FROM
-          candidates
-        GROUP BY
-          party;
 CREATE VIEW parties_uncontested_constituencies AS WITH
   possible_candidacies AS (
     SELECT
@@ -62,3 +56,50 @@ SELECT constituency,
 FROM candidate_counts
 GROUP BY constituency
 ORDER BY competition ASC;
+CREATE VIEW parties as select party from candidates group by party order by party asc;
+CREATE VIEW party_stats as with candidate_counts as (
+  select
+    party,
+    count(name) as candidates
+  from
+    candidates
+  group by
+    party
+  order by
+    party asc
+),
+incumbent_candidate_counts as (
+  select
+    party,
+    count(name) as incumbent_candidates
+  from
+    candidates
+  where
+    incumbent not null
+  group by
+    party
+  order by
+    party asc
+),
+constituency_counts as (
+  select
+    party,
+    count(constituency) as constituencies
+  from
+    (select party, constituency from candidates group by party, constituency)
+  group by
+    party
+  order by
+    party asc
+)
+select
+  candidate_counts.party,
+  candidates,
+  incumbent_candidates,
+  printf("%.2f", 1.0*incumbent_candidates/candidates) as percent_incumbent,
+  constituencies,
+  printf("%.2f", constituencies/43.0) as constituency_coverage,
+  printf("%.2f", 1.0*candidates/constituencies) as average_candidates_per_contested_constituency
+from
+  candidate_counts
+  full join constituency_counts on candidate_counts.party = constituency_counts.party full join incumbent_candidate_counts on candidate_counts.party = incumbent_candidate_counts.party;

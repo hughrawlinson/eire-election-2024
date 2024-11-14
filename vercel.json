@@ -1,0 +1,17 @@
+{
+  "name": "irish-election-2024",
+  "version": 2,
+  "regions": ["dub1"],
+  "builds": [
+    {
+      "src": "index.py",
+      "use": "@vercel/python@4.3.1"
+    }
+  ],
+  "routes": [
+    {
+      "src": "(.*)",
+      "dest": "index.py"
+    }
+  ]
+}

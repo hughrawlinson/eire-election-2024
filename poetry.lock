@@ -209,6 +209,40 @@ datasette = "*"
 test = ["pytest", "pytest-asyncio"]
 
 [[package]]
+name = "datasette-publish-vercel"
+version = "0.14.2"
+description = "Datasette plugin for publishing data using Vercel"
+optional = false
+python-versions = "*"
+files = [
+    {file = "datasette-publish-vercel-0.14.2.tar.gz", hash = "sha256:9632bbed0012941bf171510ea39d79ae8db0977d99300f1c36b176ea00cc05d5"},
+    {file = "datasette_publish_vercel-0.14.2-py3-none-any.whl", hash = "sha256:5c6ba4ce54898c79c62eeeb27b79437773e569fbc2da3fba8a3f9dd2cb8908f6"},
+]
+
+[package.dependencies]
+datasette = ">=0.59"
+
+[package.extras]
+test = ["pytest"]
+
+[[package]]
+name = "datasette-template-sql"
+version = "1.0.2"
+description = "Datasette plugin for executing SQL queries from templates"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "datasette-template-sql-1.0.2.tar.gz", hash = "sha256:664c795c319e820be635803198b505dc01621324a8b4627b269e4c174563e8c3"},
+    {file = "datasette_template_sql-1.0.2-py3-none-any.whl", hash = "sha256:194514201e8ce3489040e89a7887d8144bf27fd32580649a904be31de2cd0752"},
+]
+
+[package.dependencies]
+datasette = ">=0.54"
+
+[package.extras]
+test = ["pytest", "pytest-asyncio", "sqlite-utils"]
+
+[[package]]
 name = "flexcache"
 version = "0.3"
 description = "Saves and loads to the cache a transformed versions of a source object."
@@ -716,4 +750,4 @@ standard = ["colorama (>=0.4)", "httptools (>=0.5.0)", "python-dotenv (>=0.13)",
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "efd0b7909588955f0a4cfc3d0617174b81f74033a7e8d3b152a3117b6ea60adc"
+content-hash = "7290661f91a1916f98b18e45a36181a4e111d85a2227fc6740b761ba681f01db"

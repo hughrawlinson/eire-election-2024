@@ -8,7 +8,7 @@
 {% with party_candidates = sql("select * from candidates where party = :party", {"party": party}, database="election-2024")%}
 <ul>
 {% for candidate in party_candidates %}
-<li>{{candidate.constituency}} - <a href="/candidates/{{candidate.name | urlencode}}">{{candidate.name}}</a></li>
+<li>{{candidate.constituency}} - <a href="/candidates/{{candidate.name | urlencode}}">{{candidate.name}}</a>{% if candidate.incumbent %} - incumbent {{candidate.incumbent}}{%endif%}</li>
 {% endfor%}
 </ul>
 {% endwith %}
@@ -19,6 +19,16 @@
 <li><a href="/constituencies/{{constituency.constituency | urlencode}}">{{constituency.constituency}}</a></li>
 {% endfor%}
 </ul>
+{% endwith %}
+{% with uncontested = sql("select constituency from parties_uncontested_constituencies where party = :party order by constituency asc", {"party": party}, database="election-2024") %}
+{% if uncontested | length > 0 and uncontested | length < 15 %}
+<p>{{party}} is leaving {{uncontested | length}} constituencies uncontested</p>
+<ul>
+{% for constituency in uncontested %}
+<li><a href="/constituencies/{{constituency.constituency | urlencode}}">{{constituency.constituency}}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
 {% endwith %}
 {% endwith %}
 </div>

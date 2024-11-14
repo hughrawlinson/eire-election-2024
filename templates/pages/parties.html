@@ -1,9 +1,28 @@
 {% extends '_layout.html' %}
 {% block content %}
 <h2>Parties</h2>
-<ul>
-{% for row in sql("select * from parties order by party asc", database="election-2024") %}
-  <li><a href="/parties/{{ row['party'] }}">{{row['party']}}</a></li>
+{% with party_stats = sql("select * from party_stats", database="election-2024") %}
+<table style="border-spacing: 18px 6px">
+  <thead>
+    <tr>
+      <th>Party</th>
+      <th>Candidates</th>
+      <th>Incumbents</th>
+      <th>Constituencies</th>
+      <th>Uncontested Constituencies</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for row in party_stats %}
+  <tr>
+    <td><a href="/parties/{{ row['party'] }}">{{row['party']}}</a></td>
+    <td>{{row["candidates"]}}</td>
+    <td>{{row["incumbent_candidates"]}} <span title="{{((row["percent_incumbent"]|float)*100)|int}}% of {{row["party"]}} candidates currently hold office in the either D&#225;il or the Seanad" class="muted">({{((row["percent_incumbent"]|float)*100)|int}}%)</span></td>
+    <td>{{row["constituencies"]}} <span title="{{row['party']}} is contesting {{((row["constituency_coverage"]|float)*100)|int}}% of constituencies" class="muted">({{((row["constituency_coverage"]|float)*100)|int}}%)</span></td>
+    <td>{{43 - row["constituencies"]}} <span title="{{row['party']}} is not contesting {{((1-row["constituency_coverage"]|float)*100)|int}}% of constituencies" class="muted">({{((1-row["constituency_coverage"]|float)*100)|int}}%)</span></td>
+  </tr>
 {% endfor %}
-</ul>
+</tbody>
+</table>
+{% endwith %}
 {% endblock %}

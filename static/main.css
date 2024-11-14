@@ -19,8 +19,17 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+span,
+a,
+p,
+li {
   font-family: var(--header-font);
+}
+
+.muted {
+  color: #333;
+  font-size: 80%;
 }
 
 div.max-width-wrapper {

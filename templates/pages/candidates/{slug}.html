@@ -4,7 +4,7 @@
 {% with name = ( slug | replace('~','%') | urldecode | replace('+', ' ') ) %}
 {% with candidate = sql("select * from candidates where name = :name", {"name": name}, database="election-2024")[0] %}
 <h1>{{name}}</h1>
-<h3>{{candidate.party}} candidate for {{candidate.constituency}}</h3>
+<h3><a href="/parties/{{candidate.party}}">{{candidate.party}}</a> candidate for <a href="/constituencies/{{candidate.constituency}}">{{candidate.constituency}}</a></h3>
 {% if candidate.incumbent == "td" %}Incumbent TD{%endif%}
 {% if candidate.incumbent == "senator" %}Incumbent Senator{%endif%}
 <br/>
