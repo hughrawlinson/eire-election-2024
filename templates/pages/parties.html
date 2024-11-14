@@ -1,0 +1,9 @@
+{% extends '_layout.html' %}
+{% block content %}
+<h2>Parties</h2>
+<ul>
+{% for row in sql("select * from parties order by party asc", database="election-2024") %}
+  <li><a href="/parties/{{ row['party'] }}">{{row['party']}}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}

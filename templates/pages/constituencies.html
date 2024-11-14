@@ -1,0 +1,10 @@
+{% extends '_layout.html' %}
+
+{% block content%}
+<h2>Constituencies</h2>
+<ul>
+{% for row in sql("select * from constituency_counts", database="election-2024") %}
+  <li><a href="/constituencies/{{ row['constituency'] | replace(' ', '+') | urlencode }}">{{row['constituency']}}</a> contested by {{ row['candidate_count'] }} candidates from {{ row['party_count' ]}} parties</li>
+{% endfor %}
+</ul>
+{% endblock %}

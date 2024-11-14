@@ -1,0 +1,16 @@
+{% extends '_layout.html' %}
+{% block content %}
+<div class="vertical-space-flex">
+{% with name = ( slug | replace('~','%') | urldecode | replace('+', ' ') ) %}
+{% with candidate = sql("select * from candidates where name = :name", {"name": name}, database="election-2024")[0] %}
+<h1>{{name}}</h1>
+<h3>{{candidate.party}} candidate for {{candidate.constituency}}</h3>
+{% if candidate.incumbent == "td" %}Incumbent TD{%endif%}
+{% if candidate.incumbent == "senator" %}Incumbent Senator{%endif%}
+<br/>
+{% if candidate.wikipedia %}<a href="https://en.wikipedia.com/wiki/{{candidate.wikipedia}}">Wikipedia</a>{% endif %}
+<br/>
+{% endwith %}
+{% endwith %}
+</div>
+{% endblock %}

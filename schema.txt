@@ -1,0 +1,64 @@
+CREATE TABLE "constituencies" (
+   [Constituency] TEXT PRIMARY KEY,
+   [Seat Count] INTEGER,
+   [Returning Officer URL] TEXT
+);
+CREATE TABLE [constituency_boundaries] (
+   [id] INTEGER PRIMARY KEY,
+   [OBJECTID_1] INTEGER,
+   [GUID] TEXT,
+   [CON_SEAT_] TEXT,
+   [CON_ID] TEXT,
+   [InPoly_FID] INTEGER,
+   [SimPgnFlag] INTEGER,
+   [MaxSimpTol] INTEGER,
+   [MinSimpTol] INTEGER,
+   [geometry] TEXT
+);
+CREATE TABLE [candidates] (
+   [constituency] TEXT,
+   [party] TEXT,
+   [wikipedia] TEXT,
+   [name] TEXT,
+   [incumbent] TEXT,
+   [previous_member_of_dail_or_seanad] INTEGER
+);
+CREATE VIEW parties AS SELECT
+          party
+        FROM
+          candidates
+        GROUP BY
+          party;
+CREATE VIEW parties_uncontested_constituencies AS WITH
+  possible_candidacies AS (
+    SELECT
+      parties.party AS party,
+      constituencies.constituency AS constituency
+    FROM
+      constituencies
+      JOIN parties
+  )
+SELECT
+  possible_candidacies.party, possible_candidacies.constituency
+FROM
+  candidates
+  RIGHT OUTER JOIN possible_candidacies ON candidates.party = possible_candidacies.party
+  AND candidates.constituency = possible_candidacies.constituency where candidates.name is null;
+CREATE VIEW constituency_counts AS WITH candidate_counts AS
+  (SELECT constituencies.seat_count AS seat_count,
+          constituencies.constituency AS constituency,
+          count(candidates.name) AS candidate_count,
+          candidates.party AS party
+   FROM constituencies
+   JOIN candidates ON constituencies.constituency = candidates.constituency
+   GROUP BY constituencies.constituency,
+            candidates.party
+   ORDER BY constituencies.constituency ASC)
+SELECT constituency,
+       seat_count,
+       sum(candidate_count) AS candidate_count,
+       count(candidate_count) AS party_count,
+       printf("%.2f", sum(candidate_count)*1.0 / seat_count) AS competition
+FROM candidate_counts
+GROUP BY constituency
+ORDER BY competition ASC;

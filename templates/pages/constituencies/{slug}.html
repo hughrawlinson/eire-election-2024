@@ -1,0 +1,18 @@
+{% extends '_layout.html' %}
+{% block content %}
+{% with constituency = ( slug | replace('~','%') | urldecode | replace('+', ' ') ) %}
+<h1>{{ constituency }}</h1>
+
+{% with constituency_candidates = sql('select * from candidates where constituency=:constituency', {"constituency":constituency}, database="election-2024") %}
+<ul>
+{% for candidate in constituency_candidates %}
+<li>
+  <a href="/candidates/{{candidate.name | urlencode}}">{{candidate.name}}</a>
+  {% if candidate.incumbent == "senator" %}, incumbent Senator{%endif%}
+  {% if candidate.incumbent == "td" %}, incumbent TD{%endif%} - 
+  {{ candidate.party }}</li>
+{% endfor %}
+</ul>
+{% endwith %}
+{% endwith %}
+{% endblock %}

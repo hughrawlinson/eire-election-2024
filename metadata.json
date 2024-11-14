@@ -1,0 +1,44 @@
+{
+  "databases": {
+    "election-2024": {
+      "--queries": {
+        "parties": {
+          "sql": "        SELECT
+          party
+        FROM
+          candidates
+        GROUP BY
+          party"
+        },
+        "parties_uncontested_constituencies": {
+          "sql": "WITH
+  possible_candidacies AS (
+    WITH
+      parties AS (
+        SELECT
+          party
+        FROM
+          candidates
+        GROUP BY
+          party
+      )
+    SELECT
+      parties.party AS party,
+      constituencies.Constituency AS constituency
+    FROM
+      constituencies
+      JOIN parties
+  )
+SELECT
+  possible_candidacies.party, possible_candidacies.constituency
+FROM
+  candidates
+  RIGHT OUTER JOIN possible_candidacies ON candidates.party = possible_candidacies.party
+  AND candidates.constituency = possible_candidacies.constituency where candidates.name is null"
+        }
+      }
+    }
+  },
+  "plugins": {
+  }
+}

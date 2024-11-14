@@ -1,0 +1,2862 @@
+[
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "John McGuinness[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Jennifer Murnane O'Connor[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Peter Cleere"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Áine Gladney Knox"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Natasha Newsome Drennan"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "David Fitzgerald"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Michael Doyle"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Catherine Callaghan"
+  },
+  {
+    "party": "Green",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Malcolm Noonan[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Seán Ó hArgáin[3]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Patricia Stephenson"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Adrienne Wallace[4]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Gary O'Neill"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Tom Healy"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Eugene McGuinness"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Luke O'Connor[a]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Carlow–Kilkenny",
+    "candidate": "Orla Donohoe\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Niamh Smyth[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Brendan Smith[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Robbie Gallagher[#][5]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Matt Carthy[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Pauline Tully[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Cathy Bennett"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "David Maxwell[6]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "T. P. O'Reilly[6]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Carmel Brady"
+  },
+  {
+    "party": "Green",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Eddie O'Gara"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Emma Hendrick"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Shane P. O'Reilly"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Sarah O'Reilly"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Lester Gordon"
+  },
+  {
+    "party": "Others",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Val Martin\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Cavan–Monaghan",
+    "candidate": "Mark Moore\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Clare",
+    "candidate": "Cathal Crowe[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Clare",
+    "candidate": "Timmy Dooley[#]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Clare",
+    "candidate": "Rita McInerney"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Clare",
+    "candidate": "Donna McGettigan"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Clare",
+    "candidate": "Leonora Carey"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Clare",
+    "candidate": "Joe Cooney"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Clare",
+    "candidate": "Tom Nolan[7]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Clare",
+    "candidate": "Róisín Garvey[#]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Clare",
+    "candidate": "Hilary Tonge"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Clare",
+    "candidate": "Caitríona Ní Chatháin"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Clare",
+    "candidate": "Eddie Punch"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Clare",
+    "candidate": "June Dillon"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Clare",
+    "candidate": "Amanda Major[8]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Clare",
+    "candidate": "Kevin Hassett[9]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Clare",
+    "candidate": "Matthew Moroney"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Clare",
+    "candidate": "Paddy Murphy[10]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Clare",
+    "candidate": "Violet-Anne Wynne"
+  },
+  {
+    "party": "Others",
+    "constituency": "Clare",
+    "candidate": "Michael Loughrey\n(IP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Clare",
+    "candidate": "Michael Leahy\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork East",
+    "candidate": "James O'Connor[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork East",
+    "candidate": "Deirdre O'Brien"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork East",
+    "candidate": "Pat Buckley[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork East",
+    "candidate": "Noel McCarthy"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork East",
+    "candidate": "Mark Stanton"
+  },
+  {
+    "party": "Green",
+    "constituency": "Cork East",
+    "candidate": "Clíona O'Halloran"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Cork East",
+    "candidate": "Liam Quaide"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Cork East",
+    "candidate": "Asch Ní Fhinn"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Cork East",
+    "candidate": "Kathryn Bermingham"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Cork East",
+    "candidate": "Mona Stromsoe"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cork East",
+    "candidate": "Mary Linehan Foley"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cork East",
+    "candidate": "William O'Leary"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cork East",
+    "candidate": "Frank Roche"
+  },
+  {
+    "party": "Others",
+    "constituency": "Cork East",
+    "candidate": "James Peter O'Sullivan\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork North-Central",
+    "candidate": "Pádraig O'Sullivan[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork North-Central",
+    "candidate": "Tony Fitzgerald"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork North-Central",
+    "candidate": "Sandra Murphy Kelleher"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork North-Central",
+    "candidate": "Thomas Gould[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork North-Central",
+    "candidate": "Joe Lynch"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork North-Central",
+    "candidate": "Colm Burke[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork North-Central",
+    "candidate": "Garret Kelleher"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork North-Central",
+    "candidate": "Imelda Daly"
+  },
+  {
+    "party": "Green",
+    "constituency": "Cork North-Central",
+    "candidate": "Oliver Moran"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Cork North-Central",
+    "candidate": "John Maher"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Cork North-Central",
+    "candidate": "Eoghan Kenny"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Cork North-Central",
+    "candidate": "Ciarán McCarthy"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Cork North-Central",
+    "candidate": "Susan Doyle"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Cork North-Central",
+    "candidate": "Mick Barry[*]"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Cork North-Central",
+    "candidate": "Ken O'Flynn"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Cork North-Central",
+    "candidate": "Finian Toomey"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cork North-Central",
+    "candidate": "Rachel Hurley Roche[b]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cork North-Central",
+    "candidate": "John Donohoe"
+  },
+  {
+    "party": "Others",
+    "constituency": "Cork North-Central",
+    "candidate": "Derek Blighe\n(IF)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork North-West",
+    "candidate": "Michael Moynihan[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork North-West",
+    "candidate": "Aindrias Moynihan[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork North-West",
+    "candidate": "Nicole Ryan"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork North-West",
+    "candidate": "John Paul O'Shea"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork North-West",
+    "candidate": "Michael Creed"
+  },
+  {
+    "party": "Green",
+    "constituency": "Cork North-West",
+    "candidate": "Colette Finn"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Cork North-West",
+    "candidate": "Joe Moore"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Cork North-West",
+    "candidate": "Becky Kealy"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork South-Central",
+    "candidate": "Micheál Martin[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork South-Central",
+    "candidate": "Séamus McGrath"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork South-Central",
+    "candidate": "Margaret Kenneally"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork South-Central",
+    "candidate": "Donnchadh Ó Laoghaire[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork South-Central",
+    "candidate": "Michelle Cowhey Shahid"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork South-Central",
+    "candidate": "Jerry Buttimer[#]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork South-Central",
+    "candidate": "Úna McCarthy"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork South-Central",
+    "candidate": "Shane O'Callaghan"
+  },
+  {
+    "party": "Green",
+    "constituency": "Cork South-Central",
+    "candidate": "Monica Oikeh"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Cork South-Central",
+    "candidate": "Laura Harmon"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Cork South-Central",
+    "candidate": "Pádraig Rice"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Cork South-Central",
+    "candidate": "Shane Laird"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Cork South-Central",
+    "candidate": "Veronica Houlihan"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Cork South-Central",
+    "candidate": "Anna Daly"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Cork South-Central",
+    "candidate": "Mick Finn"
+  },
+  {
+    "party": "Others",
+    "constituency": "Cork South-Central",
+    "candidate": "Ted Neville\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Cork South-West",
+    "candidate": "Christopher O'Sullivan[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Cork South-West",
+    "candidate": "Claire O'Callaghan"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork South-West",
+    "candidate": "Tim Lombard[#]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Cork South-West",
+    "candidate": "Noel O'Donovan"
+  },
+  {
+    "party": "Green",
+    "constituency": "Cork South-West",
+    "candidate": "Mary Ryder"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Cork South-West",
+    "candidate": "Evie Nevin"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Cork South-West",
+    "candidate": "Holly Cairns[*]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Cork South-West",
+    "candidate": "Zoe Lapland"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Cork South-West",
+    "candidate": "Michael Collins[*]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Cork South-West",
+    "candidate": "Mairead Ruane"
+  },
+  {
+    "party": "Others",
+    "constituency": "Cork South-West",
+    "candidate": "Deborah O'Driscoll\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Donegal",
+    "candidate": "Charlie McConalogue[*][11]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Donegal",
+    "candidate": "Pat \"the Cope\" Gallagher[‡][11]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Donegal",
+    "candidate": "Claudia Kennedy[12]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Donegal",
+    "candidate": "Pearse Doherty[*][13]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Donegal",
+    "candidate": "Pádraig Mac Lochlainn[*][13]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Donegal",
+    "candidate": "Noel Jordan[14]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Donegal",
+    "candidate": "Nikki Bradley[#][15]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Donegal",
+    "candidate": "John McNulty[15]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Donegal",
+    "candidate": "Nuala Carr"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Donegal",
+    "candidate": "Carol Gallagher"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Donegal",
+    "candidate": "Mary T. Sweeney[16]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Donegal",
+    "candidate": "Thomas Pringle[*][17]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Donegal",
+    "candidate": "Niall McConnell[18]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Donegal",
+    "candidate": "Gerry McKeever[19]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Donegal",
+    "candidate": "Frank O'Donnell[20]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Donegal",
+    "candidate": "Eamon McGee\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Donegal",
+    "candidate": "Kim McMenamin\n(IP)[21]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Donegal",
+    "candidate": "Charles Ward\n(100%R)[22]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Bay North",
+    "candidate": "Tom Brabazon[23]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Bay North",
+    "candidate": "Deirdre Heney"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Bay North",
+    "candidate": "Denise Mitchell[*][24]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Bay North",
+    "candidate": "Mícheál Mac Donncha"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Bay North",
+    "candidate": "Naoise Ó Muirí"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Bay North",
+    "candidate": "Aoibhinn Tormey"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Bay North",
+    "candidate": "David Healy"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Bay North",
+    "candidate": "Shane Folan[25]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin Bay North",
+    "candidate": "Cian O'Callaghan[*]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Bay North",
+    "candidate": "Bernard Mulvany"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Bay North",
+    "candidate": "James Morris"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay North",
+    "candidate": "John Lyons"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay North",
+    "candidate": "Barry Heneghan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay North",
+    "candidate": "Kevin Coyle[a]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay North",
+    "candidate": "Diarmaid Ó Conoráin"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay North",
+    "candidate": "Michael Burke"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay North",
+    "candidate": "Brian Garrigan"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Bay North",
+    "candidate": "Paul Fitzsimons\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Bay South",
+    "candidate": "Jim O'Callaghan[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Bay South",
+    "candidate": "Chris Andrews[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Bay South",
+    "candidate": "Emma Blain[26]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Bay South",
+    "candidate": "James Geoghegan"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Bay South",
+    "candidate": "Hazel Chu"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Bay South",
+    "candidate": "Ivana Bacik[*]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin Bay South",
+    "candidate": "Eoin Hayes"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Bay South",
+    "candidate": "Brigid Purcell"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Bay South",
+    "candidate": "Alan Healy"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay South",
+    "candidate": "Nick Delehanty"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay South",
+    "candidate": "Peter Dooley"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay South",
+    "candidate": "Michael McGrath"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay South",
+    "candidate": "Kate O'Connell[‡][27]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Bay South",
+    "candidate": "Daniel Pocock"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Bay South",
+    "candidate": "Lauralee Doyle\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Central",
+    "candidate": "Mary Fitzpatrick[#][28]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Central",
+    "candidate": "Mary Lou McDonald[*][29]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Central",
+    "candidate": "Janice Boylan[29]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Central",
+    "candidate": "Paschal Donohoe[*]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Central",
+    "candidate": "Neasa Hourigan[*][30]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Central",
+    "candidate": "Marie Sherlock[#][31]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin Central",
+    "candidate": "Gary Gannon[*]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Central",
+    "candidate": "Eoghan Ó Ceannabháin"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Central",
+    "candidate": "Ian Noel Smyth"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Central",
+    "candidate": "Malachy Steenson"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Central",
+    "candidate": "Kevin Sharkey[32]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Central",
+    "candidate": "Clare Daly[‡] (I4C)[33]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Darragh O'Brien[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Manju Devy"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Ann Graves"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Alan Farrell[*]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Ian Carey"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Duncan Smith[*]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Joan Hopkins"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Bryn Edwards"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Margaret McGovern"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Fingal East",
+    "candidate": "Dean Mulligan (I4C)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Lorraine Clifford-Lee[#]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Louise O'Reilly[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Grace Boland"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Joe O'Brien[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Robert O'Donoghue"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Ollie Power"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Robbie Loughlin"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Tony Murphy"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Fingal West",
+    "candidate": "John Oakes\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Fingal West",
+    "candidate": "Mark Parsons\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Shane Moynihan"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Lynda Prendergast"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Eoin Ó Broin[*][c]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Mark Ward[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Emer Higgins[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Vicki Casserly"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Karla Doran"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Francis Timmons"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Eoin Ó Broin[c]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Gino Kenny[*]"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Linda de Courcy"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Colm Quinn"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Paul Gogarty[‡]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Glen Moore\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Mid-West",
+    "candidate": "Robert Coyle\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin North-West",
+    "candidate": "Paul McAuliffe[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin North-West",
+    "candidate": "Dessie Ellis[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin North-West",
+    "candidate": "Cathleen Carney Boud"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin North-West",
+    "candidate": "Noel Rock[‡]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin North-West",
+    "candidate": "Caroline Conroy[30]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin North-West",
+    "candidate": "Rory Hearne"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin North-West",
+    "candidate": "Conor Reddy"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin North-West",
+    "candidate": "Edward McManus"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin North-West",
+    "candidate": "Gavin Pepper"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin North-West",
+    "candidate": "Diarmuid Mac Dubhghlais"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin North-West",
+    "candidate": "Stephen Redmond\n(NP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin North-West",
+    "candidate": "Ian Croft\n(CP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Shay Brennan"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Elaine Dunne"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Shaun Tracey"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Neale Richmond[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Maeve O'Connell"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Catherine Martin[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Lettie McCarthy"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Sinéad Gibney"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Siomha Ó Caisaide"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Liam Coughlan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Alan Shatter[‡][34]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Michael Fleming"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin Rathdown",
+    "candidate": "Garrett McCafferty\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin South-Central",
+    "candidate": "Catherine Ardagh[#]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin South-Central",
+    "candidate": "Aengus Ó Snodaigh[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin South-Central",
+    "candidate": "Máire Devine[‡]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin South-Central",
+    "candidate": "Mary Seery Kearney[#]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin South-Central",
+    "candidate": "Patrick Costello[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin South-Central",
+    "candidate": "Darragh Moriarty"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin South-Central",
+    "candidate": "Jen Cummins"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin South-Central",
+    "candidate": "Hazel De Nortúin"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Dublin South-Central",
+    "candidate": "Rebecca Hendrick"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Dublin South-Central",
+    "candidate": "Philip Sutcliffe Snr"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin South-Central",
+    "candidate": "Aisling Considine"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin South-Central",
+    "candidate": "Dolores Webster"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin South-Central",
+    "candidate": "Joan Collins[*]\n(RTC)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin South-Central",
+    "candidate": "Barry Ward\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin South-Central",
+    "candidate": "Jina Ahearne\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin South-West",
+    "candidate": "John Lahart[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin South-West",
+    "candidate": "Teresa Costello"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin South-West",
+    "candidate": "Seán Crowe[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin South-West",
+    "candidate": "Niamh Whelan"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin South-West",
+    "candidate": "Colm Brophy[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin South-West",
+    "candidate": "Sarah Barnes"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin South-West",
+    "candidate": "Francis Noel Duffy[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin South-West",
+    "candidate": "Ciarán Ahern"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin South-West",
+    "candidate": "Ross O'Mullane"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin South-West",
+    "candidate": "Paul Murphy[*]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin South-West",
+    "candidate": "Saoirse Ní Chónaráin"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin South-West",
+    "candidate": "Alan Edge"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin South-West",
+    "candidate": "Yan Mac Oireachtaigh\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin West",
+    "candidate": "Jack Chambers[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dublin West",
+    "candidate": "Lorna Nolan"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin West",
+    "candidate": "Paul Donnelly[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dublin West",
+    "candidate": "Breda Hanaphy"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dublin West",
+    "candidate": "Emer Currie[#]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dublin West",
+    "candidate": "Roderic O'Gorman[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dublin West",
+    "candidate": "John Walsh"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dublin West",
+    "candidate": "Ellen Murphy"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dublin West",
+    "candidate": "Ruth Coppinger[‡]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dublin West",
+    "candidate": "Ellen Troy"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin West",
+    "candidate": "Tania Doyle"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin West",
+    "candidate": "Natalie Treacy"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin West",
+    "candidate": "Umar Al-Qadri"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Dublin West",
+    "candidate": "Susanne Delaney"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dublin West",
+    "candidate": "Patrick Quinlan\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Cormac Devlin[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Shane O'Brien"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Jennifer Carroll MacNeill[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Barry Ward[#]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Ossian Smyth[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Martha Fanning"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Hugo Mills"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Richard Boyd Barrett[*]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Mairéad Tóibín"
+  },
+  {
+    "party": "Others",
+    "constituency": "Dún Laoghaire",
+    "candidate": "Cathy Lynch\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Galway East",
+    "candidate": "Anne Rabbitte[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Galway East",
+    "candidate": "Albert Dolan"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Galway East",
+    "candidate": "Louis O'Hara"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Galway East",
+    "candidate": "Pete Roche"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Galway East",
+    "candidate": "Clodagh Higgins"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Galway East",
+    "candidate": "Niamh Madden"
+  },
+  {
+    "party": "Green",
+    "constituency": "Galway East",
+    "candidate": "Eoin Madden"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Galway East",
+    "candidate": "Conor Burke"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Galway East",
+    "candidate": "Declan Geraghty[35]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Galway East",
+    "candidate": "Luke Silke"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Galway East",
+    "candidate": "Paul Madden"
+  },
+  {
+    "party": "Others",
+    "constituency": "Galway East",
+    "candidate": "David O'Reilly\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Galway West",
+    "candidate": "Gráinne Seoige[36]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Galway West",
+    "candidate": "John Connolly"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Galway West",
+    "candidate": "Mairéad Farrell[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Galway West",
+    "candidate": "Hildegarde Naughton[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Galway West",
+    "candidate": "Seán Kyne[#]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Galway West",
+    "candidate": "Pauline O'Reilly[#]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Galway West",
+    "candidate": "Helen Ogbu"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Galway West",
+    "candidate": "Eibhlín Seoighthe"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Galway West",
+    "candidate": "Maisie McMaster"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Galway West",
+    "candidate": "Noel Thomas"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Galway West",
+    "candidate": "Pádraig Lenihan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Galway West",
+    "candidate": "Mike Cubbard"
+  },
+  {
+    "party": "Others",
+    "constituency": "Galway West",
+    "candidate": "Anthony Cahill\n(IP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Galway West",
+    "candidate": "Doran McMahon\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kerry",
+    "candidate": "Norma Foley[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kerry",
+    "candidate": "Michael Cahill"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kerry",
+    "candidate": "Linda Gordon-Kelleher"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Kerry",
+    "candidate": "Pa Daly[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Kerry",
+    "candidate": "Stephanie O'Shea[37]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Kerry",
+    "candidate": "Billy O'Shea"
+  },
+  {
+    "party": "Green",
+    "constituency": "Kerry",
+    "candidate": "Cleo Murphy"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Kerry",
+    "candidate": "Mike Kennedy"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Kerry",
+    "candidate": "Cian Prendiville"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Kerry",
+    "candidate": "Tom McEllistrim[‡]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Kerry",
+    "candidate": "Catherina O'Sullivan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kerry",
+    "candidate": "Michael Healy-Rae[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kerry",
+    "candidate": "Danny Healy-Rae[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kerry",
+    "candidate": "Michelle Keane"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kerry",
+    "candidate": "Mary Fitzgibbon"
+  },
+  {
+    "party": "Others",
+    "constituency": "Kerry",
+    "candidate": "Brandon Begley\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kildare North",
+    "candidate": "James Lawless[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kildare North",
+    "candidate": "Naoise Ó Cearúil"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Kildare North",
+    "candidate": "Réada Cronin[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Kildare North",
+    "candidate": "Bernard Durkan[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Kildare North",
+    "candidate": "Joe Neville"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Kildare North",
+    "candidate": "Evie Sammon"
+  },
+  {
+    "party": "Green",
+    "constituency": "Kildare North",
+    "candidate": "Vincent P. Martin[#]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Kildare North",
+    "candidate": "Angela Feeney"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Kildare North",
+    "candidate": "Aidan Farrelly"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Kildare North",
+    "candidate": "Leah Whelan"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Kildare North",
+    "candidate": "Una O'Connor"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kildare North",
+    "candidate": "Bill Clear"
+  },
+  {
+    "party": "Others",
+    "constituency": "Kildare North",
+    "candidate": "Avril Corcoran\n(IP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Kildare North",
+    "candidate": "Sean Gill\n(CP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Kildare North",
+    "candidate": "Gerry Waters\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Seán Ó Fearghaíl[§]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Fiona O'Loughlin[#]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Shónagh Ní Raghallaigh"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Martin Heydon[*]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Monaa K. Sood"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Mark Wall[#]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Chris Pender"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Rob Cosgrave"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Edel Doran"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "William Carton"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Melissa Byrne"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Patricia Ryan[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Cathal Berry[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Tom McDonnell"
+  },
+  {
+    "party": "Others",
+    "constituency": "Kildare South (4 seats)",
+    "candidate": "Anthony Casey\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Laois",
+    "candidate": "Seán Fleming[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Laois",
+    "candidate": "Maria McCormack"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Laois",
+    "candidate": "Willie Aird"
+  },
+  {
+    "party": "Green",
+    "constituency": "Laois",
+    "candidate": "Rosie Palmer"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Laois",
+    "candidate": "Ken Mooney"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Laois",
+    "candidate": "Mary Hand"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Laois",
+    "candidate": "Brian Stanley[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Laois",
+    "candidate": "Elaine Mullally"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Laois",
+    "candidate": "Aisling Moran"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Limerick City",
+    "candidate": "Willie O'Dea[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Limerick City",
+    "candidate": "Dee Ryan"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Limerick City",
+    "candidate": "Maurice Quinlivan[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Limerick City",
+    "candidate": "Kieran O'Donnell[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Limerick City",
+    "candidate": "Maria Byrne[#]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Limerick City",
+    "candidate": "Brian Leddin[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Limerick City",
+    "candidate": "Conor Sheehan"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Limerick City",
+    "candidate": "Elisa O'Donovan"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Limerick City",
+    "candidate": "Ruairí Fahy"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Limerick City",
+    "candidate": "Esther Aherne"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Limerick City",
+    "candidate": "Sarah Beasley"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Limerick City",
+    "candidate": "Frankie Daly"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Limerick City",
+    "candidate": "Melanie Sheehan Cleary[d]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Limerick City",
+    "candidate": "Dean Quinn\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Limerick County",
+    "candidate": "Niall Collins[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Limerick County",
+    "candidate": "Bridie Collins"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Limerick County",
+    "candidate": "Joanne Collins"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Limerick County",
+    "candidate": "Patrick O'Donovan[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Limerick County",
+    "candidate": "Noreen Stokes"
+  },
+  {
+    "party": "Green",
+    "constituency": "Limerick County",
+    "candidate": "Rob O'Donnell"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Limerick County",
+    "candidate": "Laura Fahey"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Limerick County",
+    "candidate": "Richard O'Donoghue[*]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Limerick County",
+    "candidate": "Michael Ryan"
+  },
+  {
+    "party": "Others",
+    "constituency": "Limerick County",
+    "candidate": "Donna O'Loughlin\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Limerick County",
+    "candidate": "Lorraine O'Sullivan\n(IP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Limerick County",
+    "candidate": "Gerben Uunk\n(PAW)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Dympna Cunniffe"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Joe Flaherty[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Robert Troy[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Sorca Clarke[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Barry Campion"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Peter Burke[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Micheál Carrigy[#]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Tanya Cannon"
+  },
+  {
+    "party": "Green",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Carol Okeke"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Fidelma Bennett[38]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Dave Smyth"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Paul Hogan"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Laura O'Neill"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Kevin \"Boxer\" Moran[‡]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Louise Heavin"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Donal Jackson"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Longford–Westmeath",
+    "candidate": "Gerry Warnock"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Louth",
+    "candidate": "Erin McGreehan[#]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Louth",
+    "candidate": "Alison Comyn"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Louth",
+    "candidate": "Ruairí Ó Murchú[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Louth",
+    "candidate": "Joanna Byrne"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Louth",
+    "candidate": "Antóin Watters"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Louth",
+    "candidate": "John McGahon[#]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Louth",
+    "candidate": "Paula Butterly"
+  },
+  {
+    "party": "Green",
+    "constituency": "Louth",
+    "candidate": "Marianne Butler"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Louth",
+    "candidate": "Ged Nash[*]"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Louth",
+    "candidate": "Niall McCreanor"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Louth",
+    "candidate": "James Renaghan"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Louth",
+    "candidate": "Ryan McKeown"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Louth",
+    "candidate": "Michael O'Dowd"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Louth",
+    "candidate": "Kevin Callan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Louth",
+    "candidate": "Peter James Nugent"
+  },
+  {
+    "party": "Others",
+    "constituency": "Louth",
+    "candidate": "Hermann Kelly\n(IFP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Louth",
+    "candidate": "Derek McElearney\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Mayo",
+    "candidate": "Dara Calleary[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Mayo",
+    "candidate": "Lisa Chambers[#]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Mayo",
+    "candidate": "Rose Conway-Walsh[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Mayo",
+    "candidate": "Gerry Murray"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Mayo",
+    "candidate": "Alan Dillon[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Mayo",
+    "candidate": "Mark Duffy"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Mayo",
+    "candidate": "Keira Keogh"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Mayo",
+    "candidate": "Martina Jennings"
+  },
+  {
+    "party": "Green",
+    "constituency": "Mayo",
+    "candidate": "Mícheál Ó Conaill"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Mayo",
+    "candidate": "Joe Daly"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Mayo",
+    "candidate": "Chris Maxwell"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Mayo",
+    "candidate": "Paul Lawless"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Mayo",
+    "candidate": "Patsy O'Brien"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Mayo",
+    "candidate": "Stephen Kerr"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Meath East",
+    "candidate": "Thomas Byrne[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Meath East",
+    "candidate": "Caroline O'Reilly"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Meath East",
+    "candidate": "Darren O'Rourke[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Meath East",
+    "candidate": "Maria White"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Meath East",
+    "candidate": "Helen McEntee[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Meath East",
+    "candidate": "Sharon Tolan"
+  },
+  {
+    "party": "Green",
+    "constituency": "Meath East",
+    "candidate": "Ruadháin Bonham"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Meath East",
+    "candidate": "Eilish Balfe"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Meath East",
+    "candidate": "Clara McCormack"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Meath East",
+    "candidate": "Emer Tóibín"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Meath East",
+    "candidate": "Sivakumar Murugadoss"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Meath East",
+    "candidate": "Gillian Toole"
+  },
+  {
+    "party": "Others",
+    "constituency": "Meath East",
+    "candidate": "Jean Murray\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Meath West",
+    "candidate": "Aisling Dempsey"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Meath West",
+    "candidate": "Johnny Guirke[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Meath West",
+    "candidate": "Linda Murray Nelson"
+  },
+  {
+    "party": "Green",
+    "constituency": "Meath West",
+    "candidate": "Seamus McMenamin"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Meath West",
+    "candidate": "Ronan Moore"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Meath West",
+    "candidate": "Finbar Lynch"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Meath West",
+    "candidate": "Peadar Tóibín[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Meath West",
+    "candidate": "Noel French"
+  },
+  {
+    "party": "Others",
+    "constituency": "Meath West",
+    "candidate": "Ian McGauley\n(IP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Meath West",
+    "candidate": "David O'Shea\n(IFP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Offaly",
+    "candidate": "Tony McCormack[39]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Offaly",
+    "candidate": "Claire Murray"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Offaly",
+    "candidate": "Aoife Masterson[39]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Offaly",
+    "candidate": "John Clendennen[39]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Offaly",
+    "candidate": "Pippa Hackett[#]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Offaly",
+    "candidate": "Keishia Taylor"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Offaly",
+    "candidate": "Fergus McDonnell[39]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Offaly",
+    "candidate": "Maureen Ward"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Offaly",
+    "candidate": "Carol Nolan[*][39]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Offaly",
+    "candidate": "Eddie Fitzpatrick[40]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Martin Daly"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Claire Kerrane[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Aisling Dolan[#]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Dympna Daly Finn"
+  },
+  {
+    "party": "Green",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Martina O'Connor"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Andrew Mannion"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Michael Fitzmaurice[*]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Cormac Ó Corcoráin"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Roscommon–Galway",
+    "candidate": "Eugene Murphy[#][41]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Edel McSharry"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Eamon Scanlon[‡][42]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Paddy O'Rourke"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Martin Kenny[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Chris MacManus"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Frank Feighan[*]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Bláithín Gallagher"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Nessa Cosgrove"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Michael Clarke"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Graham Monaghan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Marie Casserly"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Marian Harkin[*]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Sligo–Leitrim",
+    "candidate": "Michael Kelly\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Tipperary North",
+    "candidate": "Ryan O'Meara"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Tipperary North",
+    "candidate": "Michael Smith"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Tipperary North",
+    "candidate": "Dan Harty"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Tipperary North",
+    "candidate": "Phyll Bugler"
+  },
+  {
+    "party": "Green",
+    "constituency": "Tipperary North",
+    "candidate": "Iva Pocock"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Tipperary North",
+    "candidate": "Alan Kelly[*]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Tipperary North",
+    "candidate": "Diana Dwyer"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Tipperary North",
+    "candidate": "Francis O'Toole"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Tipperary North",
+    "candidate": "Michael Lowry[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Tipperary North",
+    "candidate": "Jim Ryan"
+  },
+  {
+    "party": "Others",
+    "constituency": "Tipperary North",
+    "candidate": "Peter Madden\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Tipperary South",
+    "candidate": "Imelda Goldsboro"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Tipperary South",
+    "candidate": "Martin Browne[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Tipperary South",
+    "candidate": "Michael Murphy"
+  },
+  {
+    "party": "Green",
+    "constituency": "Tipperary South",
+    "candidate": "Myriam Madigan"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Tipperary South",
+    "candidate": "Michael Brennan"
+  },
+  {
+    "party": "Independent Ireland",
+    "constituency": "Tipperary South",
+    "candidate": "Nadaline Webster"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Tipperary South",
+    "candidate": "Mattie McGrath[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Tipperary South",
+    "candidate": "John O'Heney"
+  },
+  {
+    "party": "Others",
+    "constituency": "Tipperary South",
+    "candidate": "Séamus Healy[‡]\n(WUA)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Tipperary South",
+    "candidate": "John McGrath\n(NP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Waterford",
+    "candidate": "Mary Butler[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Waterford",
+    "candidate": "David Cullinane[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Waterford",
+    "candidate": "Conor McGuinness"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Waterford",
+    "candidate": "John Cummins[#]"
+  },
+  {
+    "party": "Green",
+    "constituency": "Waterford",
+    "candidate": "Marc Ó Cathasaigh[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Waterford",
+    "candidate": "Sadhbh O'Neill"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Waterford",
+    "candidate": "Mary Roche"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Waterford",
+    "candidate": "Patrick Curtain"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Waterford",
+    "candidate": "Ronan Cleary"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Waterford",
+    "candidate": "Killian Mangan"
+  },
+  {
+    "party": "Others",
+    "constituency": "Waterford",
+    "candidate": "John D Walsh\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Wexford",
+    "candidate": "James Browne[*]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Wexford",
+    "candidate": "Michelle O'Neill[43]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Wexford",
+    "candidate": "Johnny Mythen[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Wexford",
+    "candidate": "Bridín Murphy"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Wexford",
+    "candidate": "Cathal Byrne"
+  },
+  {
+    "party": "Green",
+    "constituency": "Wexford",
+    "candidate": "Peadar McDonald"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Wexford",
+    "candidate": "George Lawlor"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Wexford",
+    "candidate": "Martina Stafford"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Wexford",
+    "candidate": "Jim Codd"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wexford",
+    "candidate": "Verona Murphy[*]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wexford",
+    "candidate": "Michael Sheehan[44]"
+  },
+  {
+    "party": "Others",
+    "constituency": "Wexford",
+    "candidate": "Jason Murphy\n(NP)"
+  },
+  {
+    "party": "Others",
+    "constituency": "Wexford",
+    "candidate": "Stephen Power\n(IP)"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Wicklow",
+    "candidate": "Stephen Donnelly[*]"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Wicklow",
+    "candidate": "John Brady[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Wicklow",
+    "candidate": "Simon Harris[*]"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Wicklow",
+    "candidate": "Edward Timmins"
+  },
+  {
+    "party": "Green",
+    "constituency": "Wicklow",
+    "candidate": "Steven Matthews[*]"
+  },
+  {
+    "party": "Labour",
+    "constituency": "Wicklow",
+    "candidate": "Paul O'Brien"
+  },
+  {
+    "party": "Social Democrats",
+    "constituency": "Wicklow",
+    "candidate": "Jennifer Whitmore[*]"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Wicklow",
+    "candidate": "Kellie McConnell[45]"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Wicklow",
+    "candidate": "Ciarán Hogan"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wicklow",
+    "candidate": "Joe Behan[‡]"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wicklow",
+    "candidate": "Shay Cullen"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wicklow",
+    "candidate": "Charlie Keddy"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wicklow",
+    "candidate": "Rob Carry"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Malcolm Byrne[#]"
+  },
+  {
+    "party": "Fianna Fáil",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Pat Kennedy"
+  },
+  {
+    "party": "Sinn Féin",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Fionntán O Súillebháin"
+  },
+  {
+    "party": "Fine Gael",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Brian Brennan"
+  },
+  {
+    "party": "Green",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Ann Walsh"
+  },
+  {
+    "party": "PBP–Solidarity",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Aislinn O'Keeffe"
+  },
+  {
+    "party": "Aontú",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Sinéad Boland"
+  },
+  {
+    "party": "Independent",
+    "constituency": "Wicklow–Wexford",
+    "candidate": "Peir Leonard"
+  }
+]

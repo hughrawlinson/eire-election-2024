@@ -1,0 +1,112 @@
+:root {
+  --header-font: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --dark-green: #155432;
+  --dark-highlight-green: #009445;
+  --light-green: #80ffbb;
+  --dark-red: #3f1915;
+  --dark-highlight-red: #940e00;
+  --light-red: #ffb2aa;
+}
+html,
+body,
+main {
+  border: none;
+  margin: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--header-font);
+}
+
+div.max-width-wrapper {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 0 24px;
+}
+
+main {
+  margin: 24px 0px;
+}
+
+div.vertical-space-flex {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* BRAND */
+
+#brand {
+  background-color: var(--dark-green);
+  border-bottom: 5px solid var(--dark-highlight-green);
+  padding: 16px;
+  color: var(--light-green);
+  a {
+    color: var(--light-green);
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+/* NAV */
+
+#nav {
+  padding: 12px;
+  background-color: var(--dark-red);
+  border-bottom: 5px solid var(--dark-highlight-red);
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    a {
+      color: var(--light-red);
+      font-family: var(--header-font);
+      font-variant-caps: small-caps;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Search */
+
+input#search {
+  width: 100%;
+  padding: 8px;
+  font-size: 18pt;
+  border-radius: 6px;
+  padding: 12px;
+  border: 1px solid #888;
+  filter: drop-shadow(1px 1px 4px #777);
+}
+
+div#results {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+div.result-card {
+  border: 1px solid #888;
+  background-color: #fafffa;
+  border-radius: 6px;
+  padding: 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+
+  &:hover {
+    background-color: #fefffe;
+    border: 1px solid #aaa;
+  }
+}
