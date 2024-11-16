@@ -2,14 +2,29 @@
 {% block content %}
 <div class="vertical-space-flex">
 {% with name = ( slug | replace('~','%') | urldecode | replace('+', ' ') ) %}
-{% with candidate = sql("select * from candidates where name = :name", {"name": name}, database="election-2024")[0] %}
+{% with candidate = sql("select * from candidates left join candidate_details on candidates.name=candidate_details.name and candidates.party = candidate_details.party where candidates.name = :name", {"name": name}, database="election-2024")[0] %}
+{% if candidate.imageURL %}
+<img class="candidate-profile-image" src="/assets/candidate_images/{{[candidate.name, candidate.party] | join('') | urlencode}}" alt="Profile picture of {{name}}" />
+{% endif %}
 <h1>{{name}}</h1>
 <h3><a href="/parties/{{candidate.party}}">{{candidate.party}}</a> candidate for <a href="/constituencies/{{candidate.constituency}}">{{candidate.constituency}}</a></h3>
 {% if candidate.incumbent == "td" %}Incumbent TD{%endif%}
 {% if candidate.incumbent == "senator" %}Incumbent Senator{%endif%}
+{% if candidate.statement %}
+<p>{{candidate.statement | safe}}</p>
 <br/>
-{% if candidate.wikipedia %}<a href="https://en.wikipedia.com/wiki/{{candidate.wikipedia}}">Wikipedia</a>{% endif %}
+{% endif%}
+{% if candidate.wikipedia %}
+<a href="https://en.wikipedia.com/wiki/{{candidate.wikipedia}}">Wikipedia</a>
 <br/>
+{% endif %}
+{% if candidate.contact %}
+<ul>
+{% for item in (candidate.contact | parsejson).items() %}
+<li><a href="{{item[1]}}">{{item[0]}}</a></li>
+{% endfor %}
+</li>
+{% endif %}
 {% endwith %}
 {% endwith %}
 </div>

@@ -1,18 +1,15 @@
 {% extends '_layout.html' %}
 {% block content %}
 {% with constituency = ( slug | replace('~','%') | urldecode | replace('+', ' ') ) %}
+<div class="vertical-space-flex">
 <h1>{{ constituency }}</h1>
+{% with constituency_record = sql('select * from constituencies where constituency = :constituency', {"constituency": constituency}, database="election-2024")[0]%}
+<h2 class="muted">{{constituency_record.seat_count}} seats</h2>
+{% endwith %}
 
-{% with constituency_candidates = sql('select * from candidates where constituency=:constituency', {"constituency":constituency}, database="election-2024") %}
-<ul>
-{% for candidate in constituency_candidates %}
-<li>
-  <a href="/candidates/{{candidate.name | urlencode}}">{{candidate.name}}</a>
-  {% if candidate.incumbent == "senator" %}, incumbent Senator{%endif%}
-  {% if candidate.incumbent == "td" %}, incumbent TD{%endif%} - 
-  {{ candidate.party }}</li>
-{% endfor %}
-</ul>
+{% with candidates = sql('select * from candidates join candidate_details on candidates.name = candidate_details.name and candidates.party = candidate_details.party where constituency=:constituency', {"constituency":constituency}, database="election-2024") %}
+{% include("../../includes/candidate-cards.html") %}
+</div>
 {% endwith %}
 {% endwith %}
 {% endblock %}

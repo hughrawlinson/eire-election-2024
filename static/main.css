@@ -3,6 +3,7 @@
   --dark-green: #155432;
   --dark-highlight-green: #009445;
   --light-green: #80ffbb;
+  --off-white-green: #e9f7ef;
   --dark-red: #3f1915;
   --dark-highlight-red: #940e00;
   --light-red: #ffb2aa;
@@ -12,6 +13,10 @@ body,
 main {
   border: none;
   margin: none;
+}
+
+body {
+  background-color: var(--off-white-green);
 }
 
 h1,
@@ -34,7 +39,7 @@ li {
 
 div.max-width-wrapper {
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 1000px;
   padding: 0 24px;
 }
 
@@ -117,5 +122,35 @@ div.result-card {
   &:hover {
     background-color: #fefffe;
     border: 1px solid #aaa;
+  }
+}
+
+/* CANDIDATES */
+
+img.candidate-profile-image {
+  max-height: 300px;
+  max-width: 300px;
+  object-fit: contain;
+}
+
+/* CONSTITUENCIES */
+ul.candidate-cards {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 18px;
+
+  li.candidate-card {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    gap: 12px;
+
+    img {
+      max-width: 150px;
+      max-height: 150px;
+      object-fit: fill;
+    }
   }
 }

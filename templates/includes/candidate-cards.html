@@ -1,0 +1,21 @@
+<ul class="candidate-cards">
+{% for candidate in candidates %}
+<li class="candidate-card">
+  {% if candidate.imageURL %}
+    <a href="/candidates/{{candidate.name | urlencode}}">
+      <image src="/assets/candidate_images/{{[candidate.name, candidate.party] | join('') | urlencode}}" alt="Profile image of {{candidate.name}}"/>
+    </a>
+  {% endif %}
+  <div class="candidate-content">
+    <a href="/candidates/{{candidate.name | urlencode}}"><h4>{{candidate.name}}</h4></a>
+    {% if candidate.incumbent %}
+    <p>
+    {% if candidate.incumbent == "senator" %}Incumbent Senator{%endif%}
+    {% if candidate.incumbent == "td" %}Incumbent TD{%endif%} - 
+    {{ candidate.party }}
+    <p>
+    {% endif %}
+  </div>
+</li>
+{% endfor %}
+</ul>
