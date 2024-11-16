@@ -64,6 +64,20 @@ files = [
 tests = ["mypy (>=0.800)", "pytest", "pytest-asyncio"]
 
 [[package]]
+name = "asyncinject"
+version = "0.6"
+description = "Run async workflows using pytest-fixtures-style dependency injection"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "asyncinject-0.6-py3-none-any.whl", hash = "sha256:2f1c9d03e50a51877bdc1b5907a206c47ed9bd1ddca25aee4d62ed2297b2e90a"},
+    {file = "asyncinject-0.6.tar.gz", hash = "sha256:ee8e879e3c18eaa5fd0b6962ac447ee80f21b201f5d12986f59fa6e0638ba774"},
+]
+
+[package.extras]
+test = ["pytest", "pytest-asyncio"]
+
+[[package]]
 name = "certifi"
 version = "2024.8.30"
 description = "Python package for providing Mozilla's CA Bundle."
@@ -106,6 +120,20 @@ click = "*"
 test = ["pytest"]
 
 [[package]]
+name = "click-default-group-wheel"
+version = "1.2.3"
+description = "click-default-group-wheel is now click-default-group"
+optional = false
+python-versions = "*"
+files = [
+    {file = "click-default-group-wheel-1.2.3.tar.gz", hash = "sha256:1873fc3496669ef2492c31f4e512d87d93af26148eb383ebdf1b2b9971072519"},
+    {file = "click_default_group_wheel-1.2.3-py3-none-any.whl", hash = "sha256:2d00a21d437f23f6f2f5f6609c649caa72d4227c18a96ab250679f3a6a43af6e"},
+]
+
+[package.dependencies]
+click-default-group = "*"
+
+[[package]]
 name = "colorama"
 version = "0.4.6"
 description = "Cross-platform colored terminal text."
@@ -118,41 +146,40 @@ files = [
 
 [[package]]
 name = "datasette"
-version = "0.65"
+version = "1.0a3"
 description = "An open source multi-tool for exploring and publishing data"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.8"
 files = [
-    {file = "datasette-0.65-py3-none-any.whl", hash = "sha256:34fc447f11533715ddc13ef9070ea6c4b1d705b138a94c504c29178a0bbac333"},
-    {file = "datasette-0.65.tar.gz", hash = "sha256:a7eed13809a3a28b5e0fc11c8e7f981a2e66e4818c4e0187f5f724fdc4454c4e"},
+    {file = "datasette-1.0a3-py3-none-any.whl", hash = "sha256:474f307972a0fa563e86a1b16289355d14adf95cb386f881e06b46b20f30594e"},
+    {file = "datasette-1.0a3.tar.gz", hash = "sha256:c81fffead89f8d6b017b6b861c9e4c3fa7e6a5c9b9c106211c6209ba608f3f14"},
 ]
 
 [package.dependencies]
 aiofiles = ">=0.4"
 asgi-csrf = ">=0.9"
 asgiref = ">=3.2.10"
+asyncinject = ">=0.5"
 click = ">=7.1.1"
-click-default-group = ">=1.2.3"
-flexcache = ">=0.3"
-flexparser = ">=0.3"
+click-default-group-wheel = ">=1.2.2"
 httpx = ">=0.20"
 hupper = ">=1.9"
 itsdangerous = ">=1.1"
 janus = ">=0.6.2"
 Jinja2 = ">=2.10.3"
 mergedeep = ">=1.1.1"
+pint = ">=0.9"
 pip = "*"
-platformdirs = ">=2.1.0"
 pluggy = ">=1.0"
 PyYAML = ">=5.3"
 setuptools = "*"
-typing-extensions = ">=4.0.0"
+sqlite-utils = ">=3.30"
 uvicorn = ">=0.11"
 
 [package.extras]
-docs = ["blacken-docs", "codespell", "furo (==2024.8.6)", "sphinx-autobuild", "sphinx-copybutton"]
+docs = ["Sphinx (==7.1.2)", "blacken-docs", "codespell (>=2.2.5)", "furo (==2023.7.26)", "ruamel.yaml", "sphinx-autobuild", "sphinx-copybutton", "sphinx-inline-tabs"]
 rich = ["rich"]
-test = ["beautifulsoup4 (>=4.8.1)", "black (==24.4.2)", "blacken-docs (==1.12.1)", "cogapp (>=3.3.0)", "pytest (>=5.2.2)", "pytest-asyncio (>=0.17)", "pytest-timeout (>=1.4.2)", "pytest-xdist (>=2.2.1)", "trustme (>=0.7)"]
+test = ["beautifulsoup4 (>=4.8.1)", "black (==23.7.0)", "blacken-docs (==1.15.0)", "cogapp (>=3.3.0)", "pytest (>=5.2.2)", "pytest-asyncio (>=0.17)", "pytest-timeout (>=1.4.2)", "pytest-xdist (>=2.2.1)", "trustme (>=0.7)"]
 
 [[package]]
 name = "datasette-geojson"
@@ -241,6 +268,41 @@ datasette = ">=0.54"
 
 [package.extras]
 test = ["pytest", "pytest-asyncio", "sqlite-utils"]
+
+[[package]]
+name = "datasette-write"
+version = "0.4"
+description = "Datasette plugin providing a UI for writing to a database"
+optional = false
+python-versions = "*"
+files = [
+    {file = "datasette_write-0.4-py3-none-any.whl", hash = "sha256:810b55b65cc0383d406fa6cd14a0f642280700cacddf683505f58c14f1928849"},
+    {file = "datasette_write-0.4.tar.gz", hash = "sha256:4b599b05950921b1bceb7a800583de9d7cf2b1071d642ba16fbb2df13d47f665"},
+]
+
+[package.dependencies]
+datasette = ">=0.64.6"
+
+[package.extras]
+test = ["beautifulsoup4", "httpx", "pytest", "pytest-asyncio"]
+
+[[package]]
+name = "datasette-write-ui"
+version = "0.0.1a11"
+description = ""
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "datasette_write_ui-0.0.1a11-py3-none-any.whl", hash = "sha256:4cf97c3b4a3546c0c230a80c435ce5da11b3fc5563eaa3fc676d028230d9ba17"},
+    {file = "datasette_write_ui-0.0.1a11.tar.gz", hash = "sha256:51fbf1566bdc192f85ab1663b97fbeacffc7cc7d845013186bb48f62b3c94e8c"},
+]
+
+[package.dependencies]
+datasette = ">=1.0a1"
+sqlite-utils = "*"
+
+[package.extras]
+test = ["pytest", "pytest-asyncio"]
 
 [[package]]
 name = "flexcache"
@@ -492,6 +554,35 @@ files = [
     {file = "mergedeep-1.3.4-py3-none-any.whl", hash = "sha256:70775750742b25c0d8f36c55aed03d24c3384d17c951b3175d898bd778ef0307"},
     {file = "mergedeep-1.3.4.tar.gz", hash = "sha256:0096d52e9dad9939c3d975a774666af186eda617e6ca84df4c94dec30004f2a8"},
 ]
+
+[[package]]
+name = "pint"
+version = "0.24.4"
+description = "Physical quantities module"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "Pint-0.24.4-py3-none-any.whl", hash = "sha256:aa54926c8772159fcf65f82cc0d34de6768c151b32ad1deb0331291c38fe7659"},
+    {file = "pint-0.24.4.tar.gz", hash = "sha256:35275439b574837a6cd3020a5a4a73645eb125ce4152a73a2f126bf164b91b80"},
+]
+
+[package.dependencies]
+flexcache = ">=0.3"
+flexparser = ">=0.4"
+platformdirs = ">=2.1.0"
+typing-extensions = ">=4.0.0"
+
+[package.extras]
+babel = ["babel (<=2.8)"]
+bench = ["pytest", "pytest-codspeed"]
+dask = ["dask"]
+mip = ["mip (>=1.13)"]
+numpy = ["numpy (>=1.23)"]
+pandas = ["pint-pandas (>=0.3)"]
+test = ["pytest", "pytest-benchmark", "pytest-cov", "pytest-mpl", "pytest-subtests"]
+testbase = ["pytest", "pytest-benchmark", "pytest-cov", "pytest-subtests"]
+uncertainties = ["uncertainties (>=3.1.6)"]
+xarray = ["xarray"]
 
 [[package]]
 name = "pip"
@@ -750,4 +841,4 @@ standard = ["colorama (>=0.4)", "httptools (>=0.5.0)", "python-dotenv (>=0.13)",
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "7290661f91a1916f98b18e45a36181a4e111d85a2227fc6740b761ba681f01db"
+content-hash = "2ca9efde4a2cc63dc16e67c9f4b2baaf39f81e28c9f815a8be528da85666dbce"

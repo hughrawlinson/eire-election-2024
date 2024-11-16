@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Cllr William Aird",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/Willie-Aird_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/laois/willie-aird/",
+    "titles": ["Laois County Council", "General Election Candidate for Laois"]
+  },
+  {
+    "name": "Cllr Sarah Barnes",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/01/Sarah-Barnes_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-south-west/sarah-barnes/",
+    "titles": [
+      "South Dublin County Council",
+      "General Election Candidate for Dublin South West"
+    ]
+  },
+  {
+    "name": "Cllr Emma Blain",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/09/EmmaBlain_Dec23_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-bay-south/emma-blain-2/",
+    "titles": [
+      "Dublin City Council",
+      "General Election Candidate for Dublin Bay South"
+    ]
+  },
+  {
+    "name": "Grace Boland",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/07/Grace-Boland_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-fingal-west/grace-boland/",
+    "titles": ["General Election Candidate for Dublin Fingal West"]
+  },
+  {
+    "name": "Senator Nikki Bradley",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/07/Nikki-Bradley_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/donegal/nikki-bradley/",
+    "titles": ["General Election Candidate for Donegal"]
+  },
+  {
+    "name": "Cllr Carmel Brady",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/04/carmel_brady_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cavan-monaghan/carmel-brady/",
+    "titles": [
+      "Cavan County Council",
+      "General Election Candidate for Cavan-Monaghan"
+    ]
+  },
+  {
+    "name": "Brian Brennan",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/07/Brian-Brennan_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/wicklow-wexford/brian-brennan/",
+    "titles": ["General Election Candidate for Wicklow/Wexford"]
+  },
+  {
+    "name": "Colm Brophy, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/GE-24-Headshot-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-south-west/colm-brophy/",
+    "titles": [
+      "TD for Dublin South West",
+      "General Election Candidate for Dublin South West"
+    ]
+  },
+  {
+    "name": "Cllr Dr. Phyll Bugler",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Phyll-Bugler_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/tipperary-north/dr-phyll-bugler/",
+    "titles": [
+      "Tipperary County Council",
+      "General Election Candidate for Tipperary North"
+    ]
+  },
+  {
+    "name": "Colm Burke, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2022/11/Colm-Burke-TD-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-north-central/colm-burke/",
+    "titles": [
+      "Minister of State with responsibility for Public Health, Wellbeing and the National Drugs Strategy.",
+      "TD for Cork North Central",
+      "General Election Candidate for Cork North Central"
+    ]
+  },
+  {
+    "name": "Peter Burke, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/peter_burke_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/longford-westmeath/peter-burke/",
+    "titles": [
+      "Minister for Enterprise, Trade and Employment",
+      "TD for Longford-Westmeath",
+      "General Election Candidate for Longford-Westmeath"
+    ]
+  },
+  {
+    "name": "Cllr Paula Butterly",
+    "imageURL": "https://www.finegael.ie/app/uploads/2021/02/Paula-Butterly_crop-238x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/louth/paula-butterly/",
+    "titles": ["Louth County Council", "General Election Candidate for Louth"]
+  },
+  {
+    "name": "Senator Jerry Buttimer",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Headshot-1-250x250.png",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-south-central/jerry-buttimer/",
+    "titles": [
+      "Cathaoirleach of Seanad Éireann",
+      "General Election Candidate for Cork South Central"
+    ]
+  },
+  {
+    "name": "Cllr Cathal Byrne",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/Cathal-Byrne_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/wexford/cathal-byrne/",
+    "titles": [
+      "Wexford County Council",
+      "General Election Candidate for Wexford"
+    ]
+  },
+  {
+    "name": "Senator Maria Byrne",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/MariaByrne-389x500-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/limerick-city/maria-byrne/",
+    "titles": [
+      "Seanad Spokesperson on Finance",
+      "General Election Candidate for Limerick City"
+    ]
+  },
+  {
+    "name": "Catherine Callaghan",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/07/Catherine-Callaghan-Aug24_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/carlow-kilkenny/catherine-callaghan/",
+    "titles": ["General Election Candidate for Carlow-Kilkenny"]
+  },
+  {
+    "name": "Tanya Cannon",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/10/Tanya-Cannon_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/longford-westmeath/tanya-cannon/",
+    "titles": ["General Election Candidate for Longford-Westmeath"]
+  },
+  {
+    "name": "Leonora Carey",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/09/Leonora-Carey_Sept24_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/clare/leonora-carey/",
+    "titles": ["General Election Candidate for Clare"]
+  },
+  {
+    "name": "Senator Micheál Carrigy",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Carrigy-Micheál-crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/longford-westmeath/michael-carrigy/",
+    "titles": [
+      "Seanad Spokesperson on Tourism, Culture, Arts, Sport, and Media",
+      "General Election Candidate for Longford-Westmeath"
+    ]
+  },
+  {
+    "name": "Jennifer Carroll MacNeill, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/J-Carroll-MacNeill-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dun-laoghaire/jennifer-carroll-macneill/",
+    "titles": [
+      "Minister of State with responsibility for EU Affairs & Defence.",
+      "TD for Dún Laoghaire",
+      "General Election Candidate for Dún Laoghaire"
+    ]
+  },
+  {
+    "name": "Cllr Vicki Casserly",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Vicki-Casserley-Jan-24_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-mid-west/vicki-casserly/",
+    "titles": [
+      "South Dublin County Council",
+      "General Election Candidate for Dublin Mid West"
+    ]
+  },
+  {
+    "name": "Cllr John Clendennen",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/John-Clendennen_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/offaly/john-clendennen/",
+    "titles": ["Offaly County Council", "General Election Candidate for Offaly"]
+  },
+  {
+    "name": "Cllr Joe Cooney",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/Joe-Cooney_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/clare/joseph-cooney/",
+    "titles": ["Clare County Council", "General Election Candidate for Clare"]
+  },
+  {
+    "name": "Cllr Michael Creed",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Michael-Creed_NZF_2901_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-north-west/michael-creed-2/",
+    "titles": [
+      "Cork County Council",
+      "General Election Candidate for Cork North West"
+    ]
+  },
+  {
+    "name": "Senator John Cummins",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/John-Cummins-1-3-2-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/waterford/john-cummins/",
+    "titles": [
+      "Seanad Spokesperson on Housing, Local Government, and Heritage",
+      "General Election Candidate for Waterford"
+    ]
+  },
+  {
+    "name": "Senator Emer Currie",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/Currie-Emer-crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-west/emer-currie/",
+    "titles": [
+      "Seanad Spokesperson for Special Education and Inclusion & Northern Ireland",
+      "General Election Candidate for Dublin West"
+    ]
+  },
+  {
+    "name": "Imelda Daly",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/09/ImeldaDaly_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-north-central/imelda-daly/",
+    "titles": ["General Election Candidate for Cork North Central"]
+  },
+  {
+    "name": "Dympna Daly-Finn",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/11/Dympna-Daly-Finn_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/roscommon-galway/dympna-daly-finn/",
+    "titles": ["General Election Candidate for Roscommon-Galway"]
+  },
+  {
+    "name": "Alan Dillon, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2020/02/AlanDillon-crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/mayo/alan-dillon/",
+    "titles": [
+      "Minister of State with responsibility for Local Government and Planning",
+      "TD for Mayo",
+      "General Election Candidate for Mayo"
+    ]
+  },
+  {
+    "name": "Senator Aisling Dolan",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/11/Aisling-Dolan_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/roscommon-galway/aisling-dolan/",
+    "titles": [
+      "Seanad Spokesperson on Education and Further and Higher Education, Research, Innovation, and Science",
+      "General Election Candidate for Roscommon-Galway"
+    ]
+  },
+  {
+    "name": "Paschal Donohoe, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/paschal_donohoe_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-central/paschal-donohoe/",
+    "titles": [
+      "Minister for Public Expenditure, National Development Plan Delivery & Reform.",
+      "TD for Dublin Central",
+      "General Election Candidate for Dublin Central"
+    ]
+  },
+  {
+    "name": "Cllr Michael Doyle",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/MichaelDoyle_Dec23_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/carlow-kilkenny/michael-doyle/",
+    "titles": [
+      "Kilkenny County Council",
+      "General Election Candidate for Carlow-Kilkenny"
+    ]
+  },
+  {
+    "name": "Cllr Mark Duffy",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/10/Mark-Duffy-3_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/mayo/mark-duffy/",
+    "titles": ["Mayo County Council", "General Election Candidate for Mayo"]
+  },
+  {
+    "name": "Bernard Durkan, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/bernard_durkan_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/kildare-north/bernard-durkan/",
+    "titles": [
+      "TD for Kildare North",
+      "General Election Candidate for Kildare North"
+    ]
+  },
+  {
+    "name": "Alan Farrell, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/AlanFarrell_Sept24_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-fingal-east/alan-farrell/",
+    "titles": [
+      "Chairperson of the Fine Gael Parliamentary Party.",
+      "TD for Dublin Fingal",
+      "General Election Candidate for Dublin Fingal East"
+    ]
+  },
+  {
+    "name": "Frank Feighan, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Frank-Feighan-2024_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/sligo-leitrim/frank-feighan/",
+    "titles": [
+      "TD for Sligo-Leitrim",
+      "General Election Candidate for Sligo-Leitrim"
+    ]
+  },
+  {
+    "name": "Cllr David Fitzgerald",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/David-Fitzgerald-2022-crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/carlow-kilkenny/david-fitzgerald/",
+    "titles": [
+      "Kilkenny County Council",
+      "General Election Candidate for Carlow-Kilkenny"
+    ]
+  },
+  {
+    "name": "Cllr James Geoghegan",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/James_Geoghegan-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-bay-south/james-geoghegan/",
+    "titles": [
+      "Dublin City Council",
+      "General Election Candidate for Dublin Bay South"
+    ]
+  },
+  {
+    "name": "Simon Harris, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Simon-Harris-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/wicklow/simon-harris/",
+    "titles": [
+      "Taoiseach",
+      "TD for Wicklow",
+      "General Election Candidate for Wicklow"
+    ]
+  },
+  {
+    "name": "Martin Heydon, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/martin_heydon_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/kildare-south/martin-heydon/",
+    "titles": [
+      "Minister of State with responsibility for Research and Development, Farm Safety, and New Market Development.",
+      "TD for Kildare South",
+      "General Election Candidate for Kildare South"
+    ]
+  },
+  {
+    "name": "Cllr Clodagh Higgins",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/09/Clodagh-Higgins_crop-250x250.jpeg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/galway-east/clodagh-higgins/",
+    "titles": [
+      "Galway City Council",
+      "General Election Candidate for Galway East"
+    ]
+  },
+  {
+    "name": "Emer Higgins, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/EH_1-250x250.png",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/dublin/dublin-mid-west/emer-higgins/",
+    "titles": [
+      "Minister of State with responsibility for Business, Employment and Retail.",
+      "TD for Dublin Mid West",
+      "General Election Candidate for Dublin Mid West"
+    ]
+  },
+  {
+    "name": "Martina Jennings",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/10/Martina-Jennings_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/mayo/martina-jennings/",
+    "titles": ["General Election Candidate for Mayo"]
+  },
+  {
+    "name": "Cllr Garret Kelleher",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/Garret-Kelleher_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-north-central/garret-kelleher/",
+    "titles": [
+      "Cork City Council",
+      "General Election Candidate for Cork North Central"
+    ]
+  },
+  {
+    "name": "Keira Keogh",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/11/KeiraKeogh_Nov23_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/mayo/keira-keogh/",
+    "titles": ["General Election Candidate for Mayo"]
+  },
+  {
+    "name": "Senator Seán Kyne",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/sean_kyne_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/galway-west/sean-kyne/",
+    "titles": [
+      "Seanad Spokesperson on Public Expenditure, NDP Delivery and Reform and the Gaeltacht",
+      "General Election Candidate for Galway West"
+    ]
+  },
+  {
+    "name": "Senator Tim Lombard",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Tim-Lombard_crop-250x250.png",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-south-west/tim-lombard/",
+    "titles": [
+      "Seanad Spokesperson on Agriculture, Food, Forestry & Marine",
+      "General Election Candidate for Cork South West"
+    ]
+  },
+  {
+    "name": "Niamh Madden",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/09/Niamh-Madden_Sept24_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/galway-east/niamh-madden/",
+    "titles": ["General Election Candidate for Galway East"]
+  },
+  {
+    "name": "Cllr David Maxwell",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/David-Maxwell_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cavan-monaghan/david-maxwell/",
+    "titles": [
+      "Monaghan County Council",
+      "General Election Candidate for Cavan-Monaghan"
+    ]
+  },
+  {
+    "name": "Cllr Noel McCarthy",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Noel-McCarthy_crop-1-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-east/noel-mccarthy/",
+    "titles": [
+      "Cork County Council",
+      "General Election Candidate for Cork East"
+    ]
+  },
+  {
+    "name": "Cllr Úna McCarthy",
+    "imageURL": "https://www.finegael.ie/app/uploads/2023/10/Una-McCarthy_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/cork-south-central/una-mccarthy/",
+    "titles": [
+      "Cork County Council",
+      "General Election Candidate for Cork South Central"
+    ]
+  },
+  {
+    "name": "Helen McEntee, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Helen-McEntee-2024_Crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/meath-east/helen-mcentee/",
+    "titles": [
+      "Minister for Justice",
+      "TD for Meath East",
+      "General Election Candidate for Meath East"
+    ]
+  },
+  {
+    "name": "Senator John McGahon",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/IMG_1782-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/louth/john-mcgahon/",
+    "titles": [
+      "Seanad Spokesperson on Environment, Climate and Communications",
+      "General Election Candidate for Louth"
+    ]
+  },
+  {
+    "name": "John McNulty",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/09/John-McNulty-3_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/donegal/john-mcnulty/",
+    "titles": ["General Election Candidate for Donegal"]
+  },
+  {
+    "name": "Cllr Bridin Murphy",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Bridin-Murphy_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/wexford/bridin-murphy/",
+    "titles": [
+      "Wexford County Council",
+      "General Election Candidate for Wexford"
+    ]
+  },
+  {
+    "name": "Cllr Michael Murphy",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Michael-Murphy-TY-Jan-24_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/tipperary-south/michael-murphy/",
+    "titles": [
+      "Tipperary County Council",
+      "General Election Candidate for Tipperary South"
+    ]
+  },
+  {
+    "name": "Cllr Linda Nelson Murray",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/Linda-Nelson-Murray_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/meath-west/linda-nelson-murray/",
+    "titles": [
+      "Meath County Council",
+      "General Election Candidate for Meath West"
+    ]
+  },
+  {
+    "name": "Hildegarde Naughton, TD",
+    "imageURL": "https://www.finegael.ie/app/uploads/2016/09/hildegarde_naughton_thumbnail-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/galway-west/hildegarde-naughton/",
+    "titles": [
+      "Government Chief Whip, with responsibility for Special Education and Inclusion.",
+      "TD for Galway West",
+      "General Election Candidate for Galway West"
+    ]
+  },
+  {
+    "name": "Cllr Joe Neville",
+    "imageURL": "https://www.finegael.ie/app/uploads/2019/05/Joe-Neville_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/kildare-north/joseph-neville/",
+    "titles": [
+      "Kildare County Council",
+      "General Election Candidate for Kildare North"
+    ]
+  },
+  {
+    "name": "Tom Nolan",
+    "imageURL": "https://www.finegael.ie/app/uploads/2024/11/Tom-Nolan_crop-250x250.jpg",
+    "candidatePage": "https://www.finegael.ie/our-people/general-election-candidates/clare/tom-nolan/",
+    "titles": ["General Election Candidate for Clare"]
+  }
+]

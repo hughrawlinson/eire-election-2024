@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Alan Kelly",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/10/Alan-Kelly-GE-24-400x278.png",
+    "candidatePage": "https://labour.ie/people/alan-kelly/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 61 34190"
+    }
+  },
+  {
+    "name": "Ali Field",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/12/Ali_Field_Headshot-400x278.png",
+    "candidatePage": "https://labour.ie/people/ali-field/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]"
+    }
+  },
+  {
+    "name": "Angela Feeney",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Angela_Feeney-400x278.png",
+    "candidatePage": "https://labour.ie/people/angela-feeney/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 238 1962"
+    }
+  },
+  {
+    "name": "Anne Breen",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Anne_Breen-400x278.png",
+    "candidatePage": "https://labour.ie/people/anne-breen/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 123 0210"
+    }
+  },
+  {
+    "name": "Annie Hoey",
+    "imageURL": "https://labour.ie/wp-content/uploads/2022/08/AH-51a549bf-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/annie-hoey/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 16 183491"
+    }
+  },
+  {
+    "name": "Aodhán Ó Ríordáin",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/05/Aodhan_OR-400x278.png",
+    "candidatePage": "https://labour.ie/people/aodhan-o-riordain/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "0032 2 28 45699"
+    }
+  },
+  {
+    "name": "Aoife Breslin",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Aoife_Breslin-400x278.png",
+    "candidatePage": "https://labour.ie/people/aoife-breslin/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 279 7694"
+    }
+  },
+  {
+    "name": "Brendan Howlin",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Brendan-Howlin-1-400x278.png",
+    "candidatePage": "https://labour.ie/people/brendan-howlin/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 53 9124036"
+    }
+  },
+  {
+    "name": "Brendan Ryan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Brendan_Ryan-400x278.png",
+    "candidatePage": "https://labour.ie/people/brendanryan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 187 6646"
+    }
+  },
+  {
+    "name": "Brian McDonagh",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Brian-McDonagh.png",
+    "candidatePage": "https://labour.ie/people/brian-mcdonagh/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 385 8979"
+    }
+  },
+  {
+    "name": "Carrie Smyth",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Carrie_Smyth-400x278.png",
+    "candidatePage": "https://labour.ie/people/carrie-smyth/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 383 5051"
+    }
+  },
+  {
+    "name": "Cathal Rasmussen",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Cathal_Rasmussen-400x278.png",
+    "candidatePage": "https://labour.ie/people/cathal-rasmussen/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 887 8421"
+    }
+  },
+  {
+    "name": "Catherine Walsh",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/05/Catherine_Walsh-400x278.png",
+    "candidatePage": "https://labour.ie/people/catherine-walsh/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 608 6560"
+    }
+  },
+  {
+    "name": "Ciarán Ahern",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Ciaran_Ahern-400x278.png",
+    "candidatePage": "https://labour.ie/people/ciaran-ahern/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 967 1854"
+    }
+  },
+  {
+    "name": "Conor Sheehan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Conor_Sheehan-400x278.png",
+    "candidatePage": "https://labour.ie/people/conor-sheehan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 85 752 5385"
+    }
+  },
+  {
+    "name": "Corina Johnston",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Corina_Johnston-400x278.png",
+    "candidatePage": "https://labour.ie/people/corina-johnston/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 352 2828"
+    }
+  },
+  {
+    "name": "Darragh Moriarty",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Darragh_Moriarty-400x278.png",
+    "candidatePage": "https://labour.ie/people/darragh-moriarty/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 85 826 9123"
+    }
+  },
+  {
+    "name": "Denis Leonard",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Denis-Leonard.png",
+    "candidatePage": "https://labour.ie/people/denis-leonard/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 643 0783"
+    }
+  },
+  {
+    "name": "Dermot Lacey",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Dermot_Lacey-400x278.png",
+    "candidatePage": "https://labour.ie/people/dermot-lacey/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 264 6960"
+    }
+  },
+  {
+    "name": "Duncan Smith",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Duncan_Smith-1-400x278.png",
+    "candidatePage": "https://labour.ie/people/duncan-smith/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "01 618 3791"
+    }
+  },
+  {
+    "name": "Eilish Balfe",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/01/Eilish_Balfe_2-400x278.png",
+    "candidatePage": "https://labour.ie/people/eilish-balfe/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 901 8822"
+    }
+  },
+  {
+    "name": "Elena Secas",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Elena_Secas-400x278.png",
+    "candidatePage": "https://labour.ie/people/elena-secas/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 360 7872"
+    }
+  },
+  {
+    "name": "Eoghan Kenny",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Eoghan_Kenny-400x278.png",
+    "candidatePage": "https://labour.ie/people/eoghan-kenny/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 85 170 4509"
+    }
+  },
+  {
+    "name": "Evie Nevin",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/09/Evie-Nevin-web-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/evie-nevin/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 83 429 0752"
+    }
+  },
+  {
+    "name": "Fidelma Bennett",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Fidelma-Bennett.png",
+    "candidatePage": "https://labour.ie/people/fidelma-bennett/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 887 8405"
+    }
+  },
+  {
+    "name": "Fiona Bonfield",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Fiona-Bonfield-2.png",
+    "candidatePage": "https://labour.ie/people/fiona-bonfield/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 167 0863"
+    }
+  },
+  {
+    "name": "Fiona Connelly",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/12/Fiona_Connelly_Headshot-400x278.png",
+    "candidatePage": "https://labour.ie/people/fionaconnelly/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 904 2266"
+    }
+  },
+  {
+    "name": "Francis Timmons",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/10/Francis-Timmons-Labour-400x278.png",
+    "candidatePage": "https://labour.ie/people/francis-timmons/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]"
+    }
+  },
+  {
+    "name": "Ged Nash",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/12/Ged_Nash_Headshot-1-400x278.png",
+    "candidatePage": "https://labour.ie/people/ged-nash/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 41 981 0811"
+    }
+  },
+  {
+    "name": "George Lawlor",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/George_Lawlor-400x278.png",
+    "candidatePage": "https://labour.ie/people/george-lawlor/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 816 4128"
+    }
+  },
+  {
+    "name": "Helen Ogbu",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/12/Helen_Ogbu_Headshot-400x278.png",
+    "candidatePage": "https://labour.ie/people/helenogbu/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 89 201 5903"
+    }
+  },
+  {
+    "name": "Ivana Bacik",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/162618607745878563-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/ivana-bacik/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 16 183136"
+    }
+  },
+  {
+    "name": "James Humphreys",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/James-Humphreys.png",
+    "candidatePage": "https://labour.ie/people/james-humphreys/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 83 856 0832"
+    }
+  },
+  {
+    "name": "Joanna Tuffy",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/05/Joanna__Tuffy-400x278.png",
+    "candidatePage": "https://labour.ie/people/joanna-tuffy/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 392 0931"
+    }
+  },
+  {
+    "name": "Joe Leddin",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Joe_Leddin-400x278.png",
+    "candidatePage": "https://labour.ie/people/joe-leddin/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 816 0569"
+    }
+  },
+  {
+    "name": "John Maher",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/John-Maher-Headshot-400x278.png",
+    "candidatePage": "https://labour.ie/people/john-maher/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "086 1942285"
+    }
+  },
+  {
+    "name": "John McDonagh",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/05/John_McDonagh-400x278.png",
+    "candidatePage": "https://labour.ie/people/john-mcdonagh/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 745 6732"
+    }
+  },
+  {
+    "name": "John Nisbet",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/John_Nisbet-1-400x278.png",
+    "candidatePage": "https://labour.ie/people/john-nisbet/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 289 2528"
+    }
+  },
+  {
+    "name": "John Pratt",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/John_Pratt-400x278.png",
+    "candidatePage": "https://labour.ie/people/john-pratt/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 7692960"
+    }
+  },
+  {
+    "name": "John Walsh",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/John_Walsh.png",
+    "candidatePage": "https://labour.ie/people/john-walsh/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 648 6228"
+    }
+  },
+  {
+    "name": "Jonnie Penrose",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Johnnie-Penrose.png",
+    "candidatePage": "https://labour.ie/people/johnnie-penrose/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 950 1495"
+    }
+  },
+  {
+    "name": "Laura Harmon",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/12/Laura_Harmon_Headshot-1-400x278.png",
+    "candidatePage": "https://labour.ie/people/lauraharmon/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]"
+    }
+  },
+  {
+    "name": "Lettie McCarthy",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Lettie_McCarthy-400x278.png",
+    "candidatePage": "https://labour.ie/people/lettie-mccarthy/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]"
+    }
+  },
+  {
+    "name": "Louise Morgan-Walsh",
+    "imageURL": "https://labour.ie/wp-content/uploads/2022/05/Louise-morgan-walsh-a1b6805e-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/louise-morgan-walsh/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 615 4146"
+    }
+  },
+  {
+    "name": "Marie Moloney",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Marie-Moloney-1-400x278.png",
+    "candidatePage": "https://labour.ie/people/marie-moloney/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 304 9422"
+    }
+  },
+  {
+    "name": "Marie Sherlock",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Marie_Sherlock.png",
+    "candidatePage": "https://labour.ie/people/marie-sherlock/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 992 8608"
+    }
+  },
+  {
+    "name": "Marie Tuohy",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Marie_Tuohy.png",
+    "candidatePage": "https://labour.ie/people/marie-tuohy/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 89 223 4700"
+    }
+  },
+  {
+    "name": "Mark Leigh",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Mark-Leigh.png",
+    "candidatePage": "https://labour.ie/people/mark-leigh/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 828 8605"
+    }
+  },
+  {
+    "name": "Mark Wall",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15543178542870719-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/mark-wall/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 83 334 1488"
+    }
+  },
+  {
+    "name": "Martha Fanning",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Martha-Fanning-400x278.png",
+    "candidatePage": "https://labour.ie/people/martha-fanning/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 204 1559"
+    }
+  },
+  {
+    "name": "Martin Farren",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15530910376917505-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/martin-farren/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 849 6082"
+    }
+  },
+  {
+    "name": "Michael Brennan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Michael-Brennan-400x278.png",
+    "candidatePage": "https://labour.ie/people/michael-brennan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 359 6275"
+    }
+  },
+  {
+    "name": "Michelle Hall",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/155325238912178446-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/michelle-hall/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 143 7079"
+    }
+  },
+  {
+    "name": "Mike Kennedy",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/12/Mike_Kennedy_Headshot-400x278.png",
+    "candidatePage": "https://labour.ie/people/mike-kennedy/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "0871716657"
+    }
+  },
+  {
+    "name": "Nessa Cosgrove",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/05/Nessa_Cosgrove_Web-400x278.png",
+    "candidatePage": "https://labour.ie/people/nessa-cosgrove/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 132 8433"
+    }
+  },
+  {
+    "name": "Niall Mc Nelis",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Frame-1.png",
+    "candidatePage": "https://labour.ie/people/niall-mcnelis/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 619 7300"
+    }
+  },
+  {
+    "name": "Pamela Kearns",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Pamela_Kearns-400x278.png",
+    "candidatePage": "https://labour.ie/people/pamela-kearns/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 775 6718"
+    }
+  },
+  {
+    "name": "Paul O Brien",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15791109034870325-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/paul-obrien/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 036 6947"
+    }
+  },
+  {
+    "name": "Peter Horgan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2023/10/Peter-Horgan-400x278.png",
+    "candidatePage": "https://labour.ie/people/peter-horgan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 83 103 3009"
+    }
+  },
+  {
+    "name": "Peter O'Brien",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Peter_OBrien-400x278.png",
+    "candidatePage": "https://labour.ie/people/peter-obrien/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 461 1638"
+    }
+  },
+  {
+    "name": "Pio Smith",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15543169282832832-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/pio-smith/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 946 0673"
+    }
+  },
+  {
+    "name": "Rebecca Moynihan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15791108044859138-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/rebecca-moynihan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 16 183989"
+    }
+  },
+  {
+    "name": "Rob O'Donoghue",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Rob-ODonoghue-400x278.png",
+    "candidatePage": "https://labour.ie/people/robert-odonoghue/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 83 054 5554"
+    }
+  },
+  {
+    "name": "Rupert Heather",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Rupert-Heather.png",
+    "candidatePage": "https://labour.ie/people/rupert-heather/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 107 9289"
+    }
+  },
+  {
+    "name": "Sadhbh O'Neill",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/10/Sadhbh-O-Neill-Web-400x278.png",
+    "candidatePage": "https://labour.ie/people/sadhbh-oneill/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]"
+    }
+  },
+  {
+    "name": "Sandy Gallagher",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/11/Sandy-Gallagher-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/sandy-gallagher/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]"
+    }
+  },
+  {
+    "name": "Seamus Ryan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/03/Seamus_Ryan-400x278.png",
+    "candidatePage": "https://labour.ie/people/seamus-ryan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 680 5314"
+    }
+  },
+  {
+    "name": "Seán Ó hArgáin",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/02/Frame-90-2.png",
+    "candidatePage": "https://labour.ie/people/sean-o-hargain/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "087 4192322"
+    }
+  },
+  {
+    "name": "Seán Sherlock",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/163154626326197888-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/sean-sherlock/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 22 53523"
+    }
+  },
+  {
+    "name": "Shane Folan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/09/Shane-Folan-Web-Photo-400x278.png",
+    "candidatePage": "https://labour.ie/people/shane-folan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 205 1804"
+    }
+  },
+  {
+    "name": "Terry O'Brien",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15543155162774667-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/terry-obrien/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 263 4196"
+    }
+  },
+  {
+    "name": "Thomas Joseph",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Thomas-Joseph-2-400x278.png",
+    "candidatePage": "https://labour.ie/people/thomas-joseph/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 125 1852"
+    }
+  },
+  {
+    "name": "Thomas Phelan",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/15544969659720881-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/thomas-phelan/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 87 411 9421"
+    }
+  },
+  {
+    "name": "Tomás Breathnach",
+    "imageURL": "https://labour.ie/wp-content/uploads/2024/04/Thomas-Breathnach-400x278.png",
+    "candidatePage": "https://labour.ie/people/tomas-breathnach/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 070 4114"
+    }
+  },
+  {
+    "name": "William Quinn PC",
+    "imageURL": "https://labour.ie/wp-content/uploads/2021/11/155620658020989614-400x278.jpg",
+    "candidatePage": "https://labour.ie/people/william-quinn/",
+    "titles": [],
+    "contact": {
+      "email": "[email protected]",
+      "phone": "+353 86 165 9115"
+    }
+  }
+]

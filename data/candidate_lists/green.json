@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Minister Roderic O'Gorman",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Roderic%20GE24.jpg?h=cf37718d&itok=bi9jbyXv",
+    "candidatePage": "https://www.greenparty.ie/people/roderic-ogorman",
+    "titles": [
+      "Minister for Children, Equality, Disability, Integration and Youth"
+    ]
+  },
+  {
+    "name": "Róisín Garvey",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Roisin%20Garvey.JPG?itok=kOiWmzQ0",
+    "candidatePage": "https://www.greenparty.ie/people/roisin-garvey",
+    "titles": [
+      "Spokesperson for Rural Development and Enterprise, Trade and Employment"
+    ]
+  },
+  {
+    "name": "Minister Catherine Martin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Catherine%20Martin%20Headshot%202024.jpg?itok=oeywP94z",
+    "candidatePage": "https://www.greenparty.ie/people/catherine-martin",
+    "titles": [
+      "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
+    ]
+  },
+  {
+    "name": "Minister Eamon Ryan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Eamon%20Ryan.jpg?h=43e3a061&itok=Uz8tJutR",
+    "candidatePage": "https://www.greenparty.ie/people/eamon-ryan",
+    "titles": [
+      "Minister for the Environment, Climate, Communications and Transport"
+    ]
+  },
+  {
+    "name": "Minister Joe O'Brien",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Joe.jpg?h=591e6157&itok=UQ1kaq1H",
+    "candidatePage": "https://www.greenparty.ie/people/joe-obrien",
+    "titles": [
+      "Minister of State with responsibility for Community Development and Charities"
+    ]
+  },
+  {
+    "name": "Minister Pippa Hackett",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Pippa%20Hackett.jpg?h=5206cca4&itok=1FTUqyhz",
+    "candidatePage": "https://www.greenparty.ie/people/pippa-hackett",
+    "titles": [
+      "Minister of State for Land Use and Biodiversity in the Department of Agriculture, Food and the Marine"
+    ]
+  },
+  {
+    "name": "Minister Malcolm Noonan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Malcolm.jpg?h=06ce9b84&itok=z_4hwF1M",
+    "candidatePage": "https://www.greenparty.ie/people/malcolm-noonan",
+    "titles": [
+      "Minister of State with responsibility for Heritage and Electoral Reform"
+    ]
+  },
+  {
+    "name": "Minister Ossian Smyth",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Ossian%20Smyth.jpg?itok=pHsFxBVB",
+    "candidatePage": "https://www.greenparty.ie/people/ossian-smyth",
+    "titles": [
+      "Minister of State with responsibility for Public Procurement, eGovernment and Circular Economy"
+    ]
+  },
+  {
+    "name": "Marc Ó Cathasaigh",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Marc.jpg?h=5440be99&itok=uX7mjbjw",
+    "candidatePage": "https://www.greenparty.ie/people/marc-o-cathasaigh",
+    "titles": ["Spokesperson for Social Protection"]
+  },
+  {
+    "name": "Patrick Costello",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-12/Patrick%20Costello%20headshot.jpg?itok=t02b0721",
+    "candidatePage": "https://www.greenparty.ie/people/patrick-costello",
+    "titles": ["Spokesperson for Justice"]
+  },
+  {
+    "name": "Francis Noel Duffy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Francis%20Noel%20Duffy.jpg?h=e3d7e23b&itok=8UIDTnld",
+    "candidatePage": "https://www.greenparty.ie/people/francis-noel-duffy",
+    "titles": ["Spokesperson for Housing"]
+  },
+  {
+    "name": "Neasa Hourigan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Neasa.jpg?itok=QEeU8y8t",
+    "candidatePage": "https://www.greenparty.ie/people/neasa-hourigan",
+    "titles": ["Spokesperson for Finance, Public Expenditure and Health"]
+  },
+  {
+    "name": "Brian Leddin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Brian_Leddin_2024.png?h=c6ce587c&itok=yaiTg52p",
+    "candidatePage": "https://www.greenparty.ie/people/brian-leddin",
+    "titles": ["Spokesperson for Transport, Climate Action and Environment"]
+  },
+  {
+    "name": "Steven Matthews",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Steven%20Matthews.jpg?h=4ed99f8a&itok=mm-AgJxQ",
+    "candidatePage": "https://www.greenparty.ie/people/steven-matthews",
+    "titles": ["Spokesperson for Planning and Local Government"]
+  },
+  {
+    "name": "Malachai O'Hara",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-03/Mal_Ohara%20%282%29.png?itok=BfNyWNrl",
+    "candidatePage": "https://www.greenparty.ie/people/malachai-ohara",
+    "titles": [
+      "Spokesperson for Northern Ireland, Arts and Culture, and Equality."
+    ]
+  },
+  {
+    "name": "Vincent P. Martin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Vincent%20P.%20Martin.jpg?h=b47b5c08&itok=nnlyct_E",
+    "candidatePage": "https://www.greenparty.ie/people/vincent-p-martin",
+    "titles": [
+      "Spokesperson for Foreign Affairs and Defence with Responsibility for Brexit"
+    ]
+  },
+  {
+    "name": "Pauline O'Reilly",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Pauline%20O%27Reilly%20%282%29.jpg?h=a9230f84&itok=oTb4Kv9b",
+    "candidatePage": "https://www.greenparty.ie/people/pauline-oreilly",
+    "titles": ["Spokesperson for Education and Higher Education"]
+  },
+  {
+    "name": "Ruadháin Bonham",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-01/Ruadh%C3%A1in%20Bonham1.jpeg?h=5414894d&itok=NiJgSh4N",
+    "candidatePage": "https://www.greenparty.ie/people/ruadhain-bonham",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Marianne Butler",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Marianne-Butler-Headshot-v2.jpg?h=aac0aa0e&itok=TrBP7Nvi",
+    "candidatePage": "https://www.greenparty.ie/people/marianne-butler",
+    "titles": ["General Election Candidate\nCouncillor"]
+  },
+  {
+    "name": "Ian Carey",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Ian%20Carey.png?itok=L9ihlz6p",
+    "candidatePage": "https://www.greenparty.ie/people/ian-carey",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Nuala Carr",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Nuala%20Carr.jpg?itok=-Tnr1i5h",
+    "candidatePage": "https://www.greenparty.ie/people/nuala-carr",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Hazel Chu",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-10/Hazel2.jpg?itok=gVXzsPCs",
+    "candidatePage": "https://www.greenparty.ie/people/hazel-chu",
+    "titles": ["General Election Candidate\nCouncillor"]
+  },
+  {
+    "name": "Mícheál Ó Conaill",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Miche%C3%A1l%20%C3%93%20Conaill.png?itok=zjqiPFBZ",
+    "candidatePage": "https://www.greenparty.ie/people/micheal-o-conaill",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Martina O'Connor",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Martina%20O%27Connor.jpg?h=456053f0&itok=AgaLZtfW",
+    "candidatePage": "https://www.greenparty.ie/people/martina-oconnor",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Caroline Conroy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Caroline%20Conroy.jpg?itok=6JsOUrTp",
+    "candidatePage": "https://www.greenparty.ie/people/caroline-conroy",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Rob O'Donnell",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Ballot%20paper%20headshots%20%282%29.png?itok=kXdEMTkZ",
+    "candidatePage": "https://www.greenparty.ie/people/rob-odonnell",
+    "titles": ["Spokesperson for the Irish Language"]
+  },
+  {
+    "name": "Karla Doran",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Main%20headshot.jpg?itok=T-w2Z1Z9",
+    "candidatePage": "https://www.greenparty.ie/people/karla-doran",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Colette Finn",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Colette%20Finn.jpg?h=df20c45d&itok=gLsXEN-S",
+    "candidatePage": "https://www.greenparty.ie/people/colette-finn",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Bláithín Gallagher",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Bl%C3%A1ith%C3%ADn%20Gallagher.png?itok=QEl39yVy",
+    "candidatePage": "https://www.greenparty.ie/people/blaithin-gallagher",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Eddie O'Gara",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-11/Eddie%20O%27Gara.png?itok=E4RAo8KB",
+    "candidatePage": "https://www.greenparty.ie/people/eddie-ogara",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Clíona O'Halloran",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-09/Cl%C3%ADona%20O%27Halloran.jpg?itok=lM1_k_CB",
+    "candidatePage": "https://www.greenparty.ie/people/cliona-ohalloran",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "David Healy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/David%20Healy.png?itok=Y2BBsIxi",
+    "candidatePage": "https://www.greenparty.ie/people/david-healy",
+    "titles": ["General Election Candidate\nCouncillor"]
+  },
+  {
+    "name": "Eoin Madden",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Eoin%20Madden%20%28New%29%20%281%29.jpg?itok=w44_Vx-u",
+    "candidatePage": "https://www.greenparty.ie/people/eoin-madden",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Myriam Madigan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Myriam%20Madigan.jpg?itok=jvleWU5k",
+    "candidatePage": "https://www.greenparty.ie/people/myriam-madigan",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Peadar McDonald",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-11/Peadar%20McDonald%20%281%29.png?itok=jRk8w3pH",
+    "candidatePage": "https://www.greenparty.ie/people/peadar-mcdonald",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Séamus McMenamin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-01/Seamus%20McMenamin.png?h=057209e8&itok=VfwCAYP_",
+    "candidatePage": "https://www.greenparty.ie/people/seamus-mcmenamin",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Oliver Moran",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Oliver%20Moran%20%281%29.jpg?itok=_vxYJnEs",
+    "candidatePage": "https://www.greenparty.ie/people/oliver-moran",
+    "titles": ["General Election Candidate\nCouncillor"]
+  },
+  {
+    "name": "Cleo Murphy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Cleo%20Murphy%20%281%29.png?itok=4yblprZa",
+    "candidatePage": "https://www.greenparty.ie/people/cleo-murphy",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Monica Oikeh",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Monica%20Oikeh.jpg?itok=dM5cm4qP",
+    "candidatePage": "https://www.greenparty.ie/people/monica-oikeh",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Rosie Palmer",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-07/Rosie%20Palmer%20SCREEN%20RES-1.jpg?h=91e38d49&itok=qqudndeF",
+    "candidatePage": "https://www.greenparty.ie/people/rosie-palmer",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Iva Pocock",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-09/Iva%20Pocock%20SCREEN%20RES-2.jpg?itok=m2tMa0rd",
+    "candidatePage": "https://www.greenparty.ie/people/iva-pocock",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Mary Ryder",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-01/GREEN_PARTY_OLD_LOGO.jpg?itok=cdktGFv7",
+    "candidatePage": "https://www.greenparty.ie/people/mary-ryder",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Monaa K Sood",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-10/Monaa%20K%20Sood.jpg?itok=_i64gOZu",
+    "candidatePage": "https://www.greenparty.ie/people/monaa-k-sood",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Ann Walsh",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-02/Ann%20Walsh.jpg?itok=PpkbuHN6",
+    "candidatePage": "https://www.greenparty.ie/people/ann-walsh-0",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Dan Boyle",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/Cllr%20Dan%20Boyle.jpg?h=9220516d&itok=aIgeol5X",
+    "candidatePage": "https://www.greenparty.ie/people/dan-boyle",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Claire Byrne",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Claire%20Byrne.png?itok=n_ejQsot",
+    "candidatePage": "https://www.greenparty.ie/people/claire-byrne",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Oisín O'Connor",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Ois%C3%ADn%20O%27Connor.png?itok=FfXtiTng",
+    "candidatePage": "https://www.greenparty.ie/people/oisin-oconnor",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Donna Cooney",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Donna%20Cooney.png?itok=Awy2lWMF",
+    "candidatePage": "https://www.greenparty.ie/people/donna-cooney",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Ray Cunningham",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-03/Ray%20Cunningham%20profile_0.png?itok=Da7zfmpu",
+    "candidatePage": "https://www.greenparty.ie/people/ray-cunningham",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Maria Dollard",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Maria%20Dollard.png?itok=uizqAvLA",
+    "candidatePage": "https://www.greenparty.ie/people/maria-dollard",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Conor Dowling",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-08/IMG_2345_Conor%20Dowling_0.JPG?h=b13f73ec&itok=Xrsa0a06",
+    "candidatePage": "https://www.greenparty.ie/people/conor-dowling",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Eva Dowling",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-02/Eva%20Dowling%20600x720.png?itok=XbYmjoBx",
+    "candidatePage": "https://www.greenparty.ie/people/eva-dowling",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Erika Doyle",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Erika%20Doyle.png?itok=hiCWFrpT",
+    "candidatePage": "https://www.greenparty.ie/people/erika-doyle",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Seán Hartigan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/GREEN_PARTY_CLLR_SEAN_HARTIGAN.jpg?h=51916105&itok=MRBysd4H",
+    "candidatePage": "https://www.greenparty.ie/people/sean-hartigan",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Janet Horner",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Janet%20Horner.jpg?h=c3f92829&itok=Z5Et1o3V",
+    "candidatePage": "https://www.greenparty.ie/people/janet-horner",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Robert Jones",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-08/RobJones-46reduced.png?itok=vieNTAGd",
+    "candidatePage": "https://www.greenparty.ie/people/robert-jones",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Feljin Jose",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-01/Feljin_Headshot.JPG?itok=VSgz5_k0",
+    "candidatePage": "https://www.greenparty.ie/people/feljin-jose",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Honore Kamegni",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-06/Honore%2012in.jpg?h=ed154969&itok=KjYNhGP6",
+    "candidatePage": "https://www.greenparty.ie/people/honore-kamegni",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Tom Kivlehan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-02/Tom_Kivlehan_2.jpg?itok=MKqUaBpb",
+    "candidatePage": "https://www.greenparty.ie/people/tom-kivlehan",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Carolyn Moore",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Carolyn%20Moore.png?itok=4241Ybok",
+    "candidatePage": "https://www.greenparty.ie/people/carolyn-moore",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Michael Pidgeon",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Michael%20Pidgeon.png?itok=WdQ3QY6x",
+    "candidatePage": "https://www.greenparty.ie/people/michael-pidgeon",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Lourda Scott",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-03/Lourda%20Scott_2024%20%281%29.jpg?itok=9Q7iiWsM",
+    "candidatePage": "https://www.greenparty.ie/people/lourda-scott",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Lauren Tuite",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-06/Lauren%20Tuite%20-%20SCREEEN%20RES-3.jpg?h=6eb82166&itok=8G27TOA-",
+    "candidatePage": "https://www.greenparty.ie/people/lauren-tuite",
+    "titles": ["Councillor"]
+  },
+  {
+    "name": "Imran Ali",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Imran%20Ali%20%281%29.jpg?itok=OOfXTmPT",
+    "candidatePage": "https://www.greenparty.ie/people/imran-ali",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Molly Aylesbury",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Molly%20Aylesbury.jpeg?itok=uIbRSmr-",
+    "candidatePage": "https://www.greenparty.ie/people/molly-aylesbury",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Lorraine Benson",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-03/Lorraine%20Benson-89%20%281%29.jpg?itok=ODP8kqDl",
+    "candidatePage": "https://www.greenparty.ie/people/lorraine-benson",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Liam O'Brien",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Liam%20O%27Brien.png?itok=bHOvH4FQ",
+    "candidatePage": "https://www.greenparty.ie/people/liam-obrien",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Dearbháil Butler",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-07/Dearbhail%20Butler%20-%20SCREEEN%20RES-1.jpg?itok=vYZuR692",
+    "candidatePage": "https://www.greenparty.ie/people/dearbhail-butler",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Brendan Cahill Flynn",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-07/Brendan%20Cahill%20Flynn.jpeg?h=6cdb00a0&itok=9NaDti1Z",
+    "candidatePage": "https://www.greenparty.ie/people/brendan-cahill-flynn",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Adam Ó Ceallaigh",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-12/Adam%20%C3%93%20Ceallaigh%20headshot%20%281%29.jpg?itok=K9uSar7d",
+    "candidatePage": "https://www.greenparty.ie/people/adam-o-ceallaigh",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Pamela Conroy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-07/Pamela%20preferred%20.png?h=ef9c87a8&itok=B-bX9GGv",
+    "candidatePage": "https://www.greenparty.ie/people/pamela-conroy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Laura Donaghy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-06/Laura%20Donaghy.jpg?itok=dACBlEAB",
+    "candidatePage": "https://www.greenparty.ie/people/laura-donaghy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Kristina Doyle",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Kristina%20Doyle.png?itok=nclZ8S-d",
+    "candidatePage": "https://www.greenparty.ie/people/kristina-doyle",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Fiona Dunne",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-03/Fiona%20Dunne%20%282%29.jpg?itok=tj5O1HUz",
+    "candidatePage": "https://www.greenparty.ie/people/fiona-dunne",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Anluan Dunne",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-10/Anluan%20Dunne.jpg?itok=TMV7zEfk",
+    "candidatePage": "https://www.greenparty.ie/people/anluan-dunne",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Mia Fahey McCarthy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-06/MFMcC2.png?itok=OX5cN8p_",
+    "candidatePage": "https://www.greenparty.ie/people/mia-fahey-mccarthy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Críostóir Ó Faoláin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/Criostoir%20O%20Faolain-%20SCREEN%20RES-4.jpg?itok=MRBbrFYg",
+    "candidatePage": "https://www.greenparty.ie/people/criostoir-o-faolain",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Peadar Ó Fionnáin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/Peadar%20O%20Fion%C3%A1in%20headshot.png?itok=AgXzAleW",
+    "candidatePage": "https://www.greenparty.ie/people/peadar-o-fionnain",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Megan Flynn Dixon",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-04/Megan%20Flynn%20Dixon%20SCREEN%20RES-4.jpg?h=2803dd4a&itok=u-zpYo1Z",
+    "candidatePage": "https://www.greenparty.ie/people/megan-flynn-dixon",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Donnacha Geoghegan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Donnacha%20Geoghegan.png?itok=az3z6uBW",
+    "candidatePage": "https://www.greenparty.ie/people/donnacha-geoghegan",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Bridget Ginnity",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-12/Bridget%20Ginnity%20LEA%20Headshot.png?itok=7kbL7zhG",
+    "candidatePage": "https://www.greenparty.ie/people/bridget-ginnity",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Johnny Gogan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-03/Johnny%20Gogan%20headshot.jpg?itok=-1pIgHzP",
+    "candidatePage": "https://www.greenparty.ie/people/johnny-gogan",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Diarmaid Griffin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/Diarmaid%20Griffin%20LEA.jpg?h=77cd440e&itok=OvDK2Hib",
+    "candidatePage": "https://www.greenparty.ie/people/diarmaid-griffin",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Michelle Griffin",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-01/Michelle%20Griffin.jpg?itok=6zb63VAg",
+    "candidatePage": "https://www.greenparty.ie/people/michelle-griffin",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Mark Hackett",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/GREEN_PARTY_CLLR_MARK_HACKETT.jpg?h=084dc61f&itok=hd6yldDQ",
+    "candidatePage": "https://www.greenparty.ie/people/mark-hackett",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Charlie Hackett",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Charlie%20Hackett.png?itok=ec82q4HN",
+    "candidatePage": "https://www.greenparty.ie/people/charlie-hackett",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Lyn Hagin Meade",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-05/Lyn%20Hagin%20Meade.jpg?itok=mvSn81ms",
+    "candidatePage": "https://www.greenparty.ie/people/lyn-hagin-meade",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Peter Hamilton",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-03/Peter%20Hamilton.png?itok=mFqEYVTQ",
+    "candidatePage": "https://www.greenparty.ie/people/peter-hamilton",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Clodagh Harrington",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-11/Clodagh%20Harrington.PNG?h=689668d3&itok=guWQDQbE",
+    "candidatePage": "https://www.greenparty.ie/people/clodagh-harrington",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Leslie O'Hora",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Leslie%20O%27Hora.jpg?itok=lCAUmsDd",
+    "candidatePage": "https://www.greenparty.ie/people/leslie-ohora",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Rory Jackson",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-02/Rory%20Jackson%20headshot.png?itok=QHzxYSC4",
+    "candidatePage": "https://www.greenparty.ie/node/342",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Louise Jordan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-08/Luoise_Jordan3.jpeg?itok=ZsuKqbDH",
+    "candidatePage": "https://www.greenparty.ie/people/louise-jordan",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Michael Kennedy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-10/Michael%20Kennedy.jpeg?h=6831dd9b&itok=Pqk-C4VE",
+    "candidatePage": "https://www.greenparty.ie/people/michael-kennedy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Cristíona Kiely",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Cristiona%20Kiely.jpg?h=a711e99b&itok=PG2Z9HEd",
+    "candidatePage": "https://www.greenparty.ie/people/cristiona-kiely",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Ekaterina Koneva",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Ballot%20paper%20headshots.png?itok=vmLeidIk",
+    "candidatePage": "https://www.greenparty.ie/people/ekaterina-koneva",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Mark Lynch",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-07/MarkL_Mark%20Lynch.jpg?h=5ab0b013&itok=73c3ZKfF",
+    "candidatePage": "https://www.greenparty.ie/people/mark-lynch",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Cathal Mac Reamoinn",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Cathal-Mac-Reamoinn%20%281%29_1.jpg?itok=LPD5BPSF",
+    "candidatePage": "https://www.greenparty.ie/people/cathal-mac-reamoinn",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Ronan Maher",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-02/ronan%20maher.jpg?itok=lS1JR0QX",
+    "candidatePage": "https://www.greenparty.ie/people/ronan-maher",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Joyce Mathias",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-03/Joyce%20Mathias.jpg?itok=0qHC_WxU",
+    "candidatePage": "https://www.greenparty.ie/people/joyce-mathias",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Alastair McKinstry",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Alastair%20McKinstry.png?itok=lqwie4e2",
+    "candidatePage": "https://www.greenparty.ie/people/alastair-mckinstry",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Kevin Murphy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Kevin%20Murphy.png?itok=qTjbaI3R",
+    "candidatePage": "https://www.greenparty.ie/people/kevin-murphy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Anthony Murphy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-02/Anthony%20Murphy%20SCREEN%20RES-6.jpg?h=18cb8b81&itok=TnS-LWy-",
+    "candidatePage": "https://www.greenparty.ie/people/anthony-murphy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Niall Murphy",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2021-12/Niall%20Murphy.png?itok=KlpENxLP",
+    "candidatePage": "https://www.greenparty.ie/people/niall-murphy",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Peter Nolan",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-08/IMG_6795_1.jpg?h=0ee2a219&itok=4yS25RZf",
+    "candidatePage": "https://www.greenparty.ie/people/peter-nolan",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Carol Okeke",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-04/Carol%20Okeke.png?itok=KQF6dsao",
+    "candidatePage": "https://www.greenparty.ie/people/carol-okeke",
+    "titles": ["General Election Candidate\nLocal Area Representative"]
+  },
+  {
+    "name": "Jody Power",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-03/Jody%20Power%20thumbnail.png?itok=pSH4cuov",
+    "candidatePage": "https://www.greenparty.ie/people/jody-power",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Karen Power",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/GREEN_PARTY_KAREN_POWER.jpg?h=255e1928&itok=oM5UE7km",
+    "candidatePage": "https://www.greenparty.ie/people/karen-power",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Bob Quinn",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Bob%20Quinn.png?itok=gDre-UGJ",
+    "candidatePage": "https://www.greenparty.ie/people/bob-quinn",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Hazel Smyth",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-01/Hazel%20Smyth.png?itok=Yc7AcJue",
+    "candidatePage": "https://www.greenparty.ie/people/hazel-smyth",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Liam Walsh",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2023-07/Liam%20Walsh.jpg?h=3ed72223&itok=1noHTd9y",
+    "candidatePage": "https://www.greenparty.ie/people/liam-walsh",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Michael White",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-03/Michael%20White%20profile.png?itok=hG-J47Rr",
+    "candidatePage": "https://www.greenparty.ie/people/michael-white",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Maolíosa Ní Chléirigh",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-01/Maol%C3%ADosa%20N%C3%AD%20Chl%C3%A9irigh.%20Waterford%20City%20South._Maol%C3%ADosa%20N%C3%AD%20Chl%C3%A9irig.jpg?itok=ioxtXr0M",
+    "candidatePage": "https://www.greenparty.ie/people/maoliosa-ni-chleirigh",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Ciarán Cuffe",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-10/GREEN_PARTY_MEP_CIARAN_CUFFE2.jpg?h=e4c92d80&itok=lkOoUqXm",
+    "candidatePage": "https://www.greenparty.ie/people/ciaran-cuffe",
+    "titles": ["Spokesperson for Europe"]
+  },
+  {
+    "name": "Aisling Maloney",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2024-05/Aisling%20Moloney.jpg?itok=JlC4P3xi",
+    "candidatePage": "https://www.greenparty.ie/people/aisling-maloney",
+    "titles": ["Local Area Representative"]
+  },
+  {
+    "name": "Suzanne Young",
+    "imageURL": "https://www.greenparty.ie/sites/default/files/styles/cover/public/2022-06/Suzanne%20Young%20-%20SCREEEN%20RES-2.jpg?h=ae32104d&itok=tdKSJbUZ",
+    "candidatePage": "https://www.greenparty.ie/people/suzanne-young",
+    "titles": ["Local Area Representative"]
+  }
+]
