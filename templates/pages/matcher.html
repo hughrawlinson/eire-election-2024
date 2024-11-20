@@ -1,0 +1,119 @@
+{% extends '_layout.html' %}
+{% block content %}
+<div class="vertical-space-flex">
+
+{% with constituencies = sql('select
+  coalesce(name, full_name) as name,
+  coalesce(constituency, constituency2) as constituency,
+  source,
+  ro_rowid,
+  ca_rowid
+from
+  (
+    select
+      (
+        case
+          when (
+            candidates.name not null
+            and returning_officer_data.full_name not null
+          ) then "match"
+          else case
+            when candidates.name not null then "candidates"
+            else "returning_officer"
+          end
+        end
+      ) as source,
+      *,
+      returning_officer_data.constituency as constituency2,
+      returning_officer_data.rowid as ro_rowid,
+      candidates.rowid as ca_rowid
+    from
+      candidates full
+      join returning_officer_data on upper(candidates.name) = upper(returning_officer_data.full_name) --where
+      --  candidates.constituency like :constituency
+      --  or returning_officer_data.constituency like :constituency
+  )
+where
+  source != "match"
+order by
+  constituency asc', {"constituency":constituency}, database="election-2024") %}
+
+<script>
+let matches = [];
+let matching = null;
+let textarea = document.getElementById("matches")
+
+function match(id) {
+  console.log(id)
+  if (!textarea) {
+    return;
+  }
+
+  if (matching) {
+    matches.push([matching, id]);
+    matching = null;
+  } else {
+    matching = id;
+  }
+  
+  let csv = matches.map(match => match.join(',')).join('\n') + (matching ? `\n${matching}` : "")
+  console.log(csv);
+  textarea.value = csv;
+};
+window.match = match;
+document.addEventListener("DOMContentLoaded", function() {
+  textarea = document.getElementById("matches")
+});
+</script>
+<textarea id="matches"></textarea>
+{% for constituency, candidates in constituencies | groupby('constituency') %}
+<h1>{{constituency}}</h1>
+<div style="display: flex; flex-direction: row; flex:1; gap:24px">
+<div>
+  <h2>Candidates</h2>
+  <table>
+    <thead>
+      <tr>
+        <td>Name</td>
+        <td>ID</td>
+      </tr>
+    </thead>
+    <tbody>
+      {% for candidate in candidates %}
+      {% if candidate.source == "candidates" %}
+      <tr>
+        <td>{{candidate.name}}</td>
+        <td onclick="match({{candidate.ca_rowid}})">{{candidate.ca_rowid}}</td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<div>
+  <h2>Returning Officer Data</h2>
+  <table>
+    <thead>
+      <tr>
+        <td>Name</td>
+        <td>ID</td>
+      </tr>
+    </thead>
+    <tbody>
+      {% for candidate in candidates %}
+      {% if candidate.source == "returning_officer" %}
+      <tr>
+        <td>{{candidate.name}}</td>
+        <td onclick="match({{candidate.ro_rowid}})">{{candidate.ro_rowid}}</td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+</div>
+{% endfor %}
+
+</div>
+{% endwith %}
+{% endblock %}
