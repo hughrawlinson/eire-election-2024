@@ -47,6 +47,11 @@ result = [
                     if (v := [x for x in (row.select("td"))][1].contents)
                     else ""
                 ),
+                "address": (
+                    wrap(lambda: v[2].text.split(", of ")[1].strip("()"))
+                    if (v := [x for x in (row.select("td"))][1].contents)
+                    else ""
+                ),
                 "occupation": (
                     wrap(lambda: v[4].text.strip("()"))
                     if (v := [x for x in (row.select("td"))][1].contents)

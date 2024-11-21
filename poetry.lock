@@ -304,6 +304,25 @@ rich = ["rich"]
 test = ["beautifulsoup4 (>=4.8.1)", "black (==24.4.2)", "blacken-docs (==1.12.1)", "cogapp (>=3.3.0)", "pytest (>=5.2.2)", "pytest-asyncio (>=0.17)", "pytest-timeout (>=1.4.2)", "pytest-xdist (>=2.2.1)", "trustme (>=0.7)"]
 
 [[package]]
+name = "datasette-cluster-map"
+version = "0.18.2"
+description = "Datasette plugin that shows a map for any data with latitude/longitude columns"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "datasette_cluster_map-0.18.2-py3-none-any.whl", hash = "sha256:8074cdd42a7c1c4e95d52a3c5b0029eb7e5fe978498855d1ec804adadfd2b041"},
+    {file = "datasette_cluster_map-0.18.2.tar.gz", hash = "sha256:6ae34faf0f2e3198cbfdc06faaf65ac43a4e3be02d916e4d69dd5e25abcc8b28"},
+]
+
+[package.dependencies]
+datasette = ">=0.54"
+datasette-leaflet = ">=0.2.2"
+
+[package.extras]
+playwright = ["pytest-playwright"]
+test = ["datasette-test", "httpx", "nest-asyncio", "pytest", "pytest-asyncio", "sqlite-utils"]
+
+[[package]]
 name = "datasette-embeddings"
 version = "0.1a3"
 description = "Store and query embedding vectors in Datasette tables"
@@ -342,6 +361,25 @@ WTForms = "*"
 [package.extras]
 docs = ["cogapp", "furo (==2023.9.10)", "myst-parser", "sphinx (==7.2.6)", "sphinx-autobuild", "sphinx-copybutton"]
 test = ["black", "packaging", "pytest", "pytest-asyncio", "ruff"]
+
+[[package]]
+name = "datasette-enrichments-opencage"
+version = "0.1.1"
+description = "Geocoding enrichment using OpenCage"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "datasette-enrichments-opencage-0.1.1.tar.gz", hash = "sha256:04087586a42f29059a3b715fc246c8f9a1c3c21af89414e71060bd8bb2aa144f"},
+    {file = "datasette_enrichments_opencage-0.1.1-py3-none-any.whl", hash = "sha256:a06ec04490ebe96da216296a60aa94da8e078737134b7c40092b0f7444ece5b8"},
+]
+
+[package.dependencies]
+datasette = "*"
+datasette-enrichments = ">=0.2"
+sqlite-utils = "*"
+
+[package.extras]
+test = ["pytest", "pytest-asyncio", "pytest-httpx"]
 
 [[package]]
 name = "datasette-geojson"
@@ -996,4 +1034,4 @@ email = ["email-validator"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "1de19418b3b1bd85cc3e415eb80a814b5f7e990fff785f423748fc3c839d22a6"
+content-hash = "b23e8b8997cb8d3918508ba309cfbc952eab8497bea15d7aa54b3f50b67796f3"

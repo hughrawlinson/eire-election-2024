@@ -5,14 +5,11 @@
 <h1>{{party}}</h1>
 <p>Running {% with count = sql("select count(*) as count from candidates where party = :party", {"party": party}, database="election-2024") %}{{count[0]["count"]}}{% endwith %} candidates
 
-{% with party_candidates = sql("select * from candidates where party = :party", {"party": party}, database="election-2024")%}
-<ul>
-{% for candidate in party_candidates %}
-<li>{{candidate.constituency}} - <a href="/candidates/{{candidate.name | urlencode}}">{{candidate.name}}</a>{% if candidate.incumbent %} - incumbent {{candidate.incumbent}}{%endif%}</li>
-{% endfor%}
-</ul>
+{% with candidates = sql("select * from candidates left join candidate_details on candidates.name = candidate_details.name and candidates.party = candidate_details.party where candidates.party = :party", {"party": party}, database="election-2024")%}
+{% include("includes/candidate-cards.html") %}
 {% endwith %}
-{% with party_constituencies = sql("select constituency from candidates where party = :party group by constituency order by constituency asc", {"party": party}, database="election-2024") %}
+
+{% with party_constituencies = sql("select constituency from candidates where candidates.party = :party group by constituency order by constituency asc", {"party": party}, database="election-2024") %}
 <h2>Contesting {% if party_constituencies | length == 43 %}all{% else %}{{party_constituencies | length}}{% endif %} Constituencies</h2>
 <ul>
 {% for constituency in party_constituencies %}

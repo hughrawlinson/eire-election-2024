@@ -8,8 +8,8 @@
 {% endwith %}
 
 {% with candidates = sql('select * from candidates join candidate_details on candidates.name = candidate_details.name and candidates.party = candidate_details.party where constituency=:constituency', {"constituency":constituency}, database="election-2024") %}
-{% include("../../includes/candidate-cards.html") %}
-</div>
+{% include("includes/candidate-cards.html") %}
 {% endwith %}
+</div>
 {% endwith %}
 {% endblock %}

@@ -10,8 +10,8 @@
     <a href="/candidates/{{candidate.name | urlencode}}"><h4>{{candidate.name}}</h4></a>
     {% if candidate.incumbent %}
     <p>
-    {% if candidate.incumbent == "senator" %}Incumbent Senator{%endif%}
-    {% if candidate.incumbent == "td" %}Incumbent TD{%endif%} - 
+    {% if candidate.incumbent == "senator" %}Incumbent Senator{% endif %}
+    {% if candidate.incumbent == "td" %}Incumbent TD{% endif %} - 
     {{ candidate.party }}
     <p>
     {% endif %}

@@ -1,6 +1,28 @@
 {
   "databases": {
     "election-2024": {
+      "about": "Data about the candidates contesting the 2024 Irish general election",
+      "tables": {
+        "candidates": {
+          "about": "The primary list of candidates",
+          "source_url": "https://en.wikipedia.org/wiki/Candidates_in_the_2024_Irish_general_election"
+        },
+        "candidate_details": {
+          "about": "Details about candidates parsed from their party websites",
+          "source": "Various party websites"
+        },
+        "returning_officer_data": {
+          "about": "Data about the candidates published by the constituency returning officers",
+          "source": "Returning officer websites. See constituencies"
+        },
+        "constituencies": {
+          "about": "A list of constituencies, their seat count, and details for the returning officer",
+        },
+        "constituency_boundaries": {
+          "about": "Geojson maps of each constituency",
+          "source": "https://data.gov.ie/dataset/general-election-2020-constituency-details"
+        }
+      },
       "--queries": {
         "parties": {
           "sql": "        SELECT
