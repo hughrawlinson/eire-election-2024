@@ -1,1 +1,145 @@
-{% with %}
+{% extends '_layout.html' %}
+{% block content %}
+<div class="vertical-space-flex">
+
+<h2>Candidates missing from RO</h2>
+
+<p>These are records that exist in the candidate table that are not matched to the returning officer data.</p>
+
+{% with candidates = sql("select rowid, * from candidates where rowid not in (select
+  candidate_to_ro.candidate
+from
+  candidates
+  join candidate_to_ro on candidates.rowid = candidate_to_ro.candidate
+  join returning_officer_data on candidate_to_ro.ro = returning_officer_data.rowid) order by constituency asc, party asc", database="election-2024") %}
+<table>
+  <thead>
+    <tr>
+      <th>Rowid</th>
+      <th>Constituency</th>
+      <th>Name</th>
+      <th>Party</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for candidate in candidates %}
+    <tr>
+      <td>{{candidate.rowid}}
+      <td>{{candidate.constituency}}
+      <td>{{candidate.name}}
+      <td>{{candidate.party}}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endwith %}
+
+<h2>Candidates missing details</h2>
+
+<p>These are records that exist in the candidate table that are not matched to the candidate details (political party website) data.</p>
+
+{% with candidates = sql("select
+  candidates.rowid,
+  *
+from
+  candidates
+  left join candidate_details on candidates.name = candidate_details.name
+  and candidates.party = candidate_details.party
+where
+  candidate_details.name is null
+order by
+  constituency asc,
+  party asc", database="election-2024") %}
+<table>
+  <thead>
+    <tr>
+      <th>Rowid</th>
+      <th>Constituency</th>
+      <th>Name</th>
+      <th>Party</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for candidate in candidates %}
+    <tr>
+      <td>{{candidate.rowid}}
+      <td>{{candidate.constituency}}
+      <td>{{candidate.name}}
+      <td>{{candidate.party}}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endwith %}
+
+<h2>RO Candidates missing in Candidates</h2>
+
+<p>These are records that exist in the returning_officer_data table that are not matched to the candidate table.</p>
+
+{% with candidates = sql("select rowid, * from returning_officer_data where rowid not in (select
+  ro
+from
+  candidates
+  join candidate_to_ro on candidates.rowid = candidate_to_ro.candidate
+  join returning_officer_data on candidate_to_ro.ro = returning_officer_data.rowid) order by constituency asc, party asc", database="election-2024") %}
+<table>
+  <thead>
+    <tr>
+      <th>rowid</th>
+      <th>Constituency</th>
+      <th>Name</th>
+      <th>Party</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for candidate in candidates %}
+    <tr>
+      <td>{{candidate.rowid}}
+      <td>{{candidate.constituency}}
+      <td>{{candidate.full_name}}
+      <td>{{candidate.party}}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endwith %}
+
+<h2>Details missing Candidates</h2>
+
+<p>These are records that exist in the candidate_details table that are not matched to the candidate table.</p>
+
+{% with candidates = sql("select
+  candidate_details.rowid,
+  *
+from
+  candidate_details
+  left join candidates on candidates.name = candidate_details.name
+  and candidates.party = candidate_details.party
+where
+  candidates.name is null
+order by
+  constituency asc,
+  party asc", database="election-2024") %}
+<table>
+  <thead>
+    <tr>
+      <th>Rowid</th>
+      <th>Constituency</th>
+      <th>Name</th>
+      <th>Party</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for candidate in candidates %}
+    <tr>
+      <td>{{candidate.rowid}}
+      <td>{{candidate.constituency}}
+      <td>{{candidate.name}}
+      <td>{{candidate.party}}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endwith %}
+
+{% endblock %}

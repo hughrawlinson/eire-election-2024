@@ -29,9 +29,8 @@ from
       candidates.rowid as ca_rowid
     from
       candidates full
-      join returning_officer_data on upper(candidates.name) = upper(returning_officer_data.full_name) --where
-      --  candidates.constituency like :constituency
-      --  or returning_officer_data.constituency like :constituency
+      join candidate_to_ro on candidates.rowid = candidate_to_ro.candidate full
+      join returning_officer_data on candidate_to_ro.ro = returning_officer_data.rowid
   )
 where
   source != "match"
@@ -68,14 +67,14 @@ document.addEventListener("DOMContentLoaded", function() {
 <textarea id="matches"></textarea>
 {% for constituency, candidates in constituencies | groupby('constituency') %}
 <h1>{{constituency}}</h1>
-<div style="display: flex; flex-direction: row; flex:1; gap:24px">
-<div>
+<div id="two-col-table-container" style="display: flex; flex-direction: row; flex:1; gap:24px">
+<div style="flex-grow: 1; flex-basis: 1">
   <h2>Candidates</h2>
   <table>
     <thead>
       <tr>
-        <td>Name</td>
-        <td>ID</td>
+        <th>Name</th>
+        <th>ID</th>
       </tr>
     </thead>
     <tbody>
@@ -90,13 +89,13 @@ document.addEventListener("DOMContentLoaded", function() {
     </tbody>
   </table>
 </div>
-<div>
+<div style="flex-grow: 1; flex-basis: 1">
   <h2>Returning Officer Data</h2>
   <table>
     <thead>
       <tr>
-        <td>Name</td>
-        <td>ID</td>
+        <th>Name</th>
+        <th>ID</th>
       </tr>
     </thead>
     <tbody>

@@ -154,3 +154,18 @@ ul.candidate-cards {
     }
   }
 }
+
+/* MATCHER */
+#two-col-table-container {
+  table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid black;
+
+    th,
+    td {
+      padding: 4px 8px;
+    }
+  }
+}
