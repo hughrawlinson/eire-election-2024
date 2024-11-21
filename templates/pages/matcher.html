@@ -7,7 +7,9 @@
   coalesce(constituency, constituency2) as constituency,
   source,
   ro_rowid,
-  ca_rowid
+  ca_rowid,
+  ro_party,
+  ca_party
 from
   (
     select
@@ -26,7 +28,9 @@ from
       *,
       returning_officer_data.constituency as constituency2,
       returning_officer_data.rowid as ro_rowid,
-      candidates.rowid as ca_rowid
+      candidates.rowid as ca_rowid,
+      candidates.party as ca_party,
+      returning_officer_data.party as ro_party
     from
       candidates full
       join candidate_to_ro on candidates.rowid = candidate_to_ro.candidate full
@@ -74,6 +78,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <thead>
       <tr>
         <th>Name</th>
+        <th>Party</th>
         <th>ID</th>
       </tr>
     </thead>
@@ -82,6 +87,7 @@ document.addEventListener("DOMContentLoaded", function() {
       {% if candidate.source == "candidates" %}
       <tr>
         <td>{{candidate.name}}</td>
+        <td>{{candidate.ca_party}}</td>
         <td onclick="match({{candidate.ca_rowid}})">{{candidate.ca_rowid}}</td>
       </tr>
       {% endif %}
@@ -95,6 +101,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <thead>
       <tr>
         <th>Name</th>
+        <th>Party</th>
         <th>ID</th>
       </tr>
     </thead>
@@ -103,6 +110,7 @@ document.addEventListener("DOMContentLoaded", function() {
       {% if candidate.source == "returning_officer" %}
       <tr>
         <td>{{candidate.name}}</td>
+        <td>{{candidate.ro_party}}</td>
         <td onclick="match({{candidate.ro_rowid}})">{{candidate.ro_rowid}}</td>
       </tr>
       {% endif %}
