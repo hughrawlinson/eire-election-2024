@@ -76,12 +76,24 @@ order by
 
 <p>These are records that exist in the returning_officer_data table that are not matched to the candidate table.</p>
 
-{% with candidates = sql("select rowid, * from returning_officer_data where rowid not in (select
-  ro
+{% with candidates = sql("
+select
+  rowid,
+  *
 from
-  candidates
-  join candidate_to_ro on candidates.rowid = candidate_to_ro.candidate
-  join returning_officer_data on candidate_to_ro.ro = returning_officer_data.rowid) order by constituency asc, party asc", database="election-2024") %}
+  returning_officer_data
+where
+  rowid not in (
+    select
+      ro
+    from
+      candidates
+      join candidate_to_ro on candidates.rowid = candidate_to_ro.candidate
+      join returning_officer_data on candidate_to_ro.ro = returning_officer_data.rowid
+  )
+order by
+  constituency asc,
+  party asc", database="election-2024") %}
 <table>
   <thead>
     <tr>
