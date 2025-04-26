@@ -36,8 +36,6 @@ from
 
 <h2>Candidates missing details</h2>
 
-<p>These are records that exist in the candidate table that are not matched to the candidate details (political party website) data.</p>
-
 {% with candidates = sql("select
   candidates.rowid,
   *
@@ -50,6 +48,11 @@ where
 order by
   party asc,
   constituency asc", database="election-2024") %}
+
+<h3>{{ candidates | length }}</h3>
+
+<p>These are records that exist in the candidate table that are not matched to the candidate details (political party website) data.</p>
+
 <table>
   <thead>
     <tr>
