@@ -20,6 +20,9 @@ datasette-enrichments = "^0.4.3"
 beautifulsoup4 = "^4.12.3"
 datasette-enrichments-opencage = "^0.1.1"
 datasette-cluster-map = "^0.18.2"
+datasette-llm-embed = "^0.2"
+llm = "^0.18"
+llm-sentence-transformers = "^0.2"
 
 
 [build-system]

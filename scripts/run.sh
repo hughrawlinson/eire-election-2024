@@ -4,4 +4,6 @@ poetry run datasette election-2024.db \
   --plugins-dir=./plugins \
   --static=assets:static/ \
   --host 0.0.0.0 \
-  --root
+  --root \
+  --setting sql_time_limit_ms 2000 \
+  --setting default_cache_ttl 3600
